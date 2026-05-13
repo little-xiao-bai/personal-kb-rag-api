@@ -53,10 +53,10 @@ class ChromaVectorStore:
         metadatas = [
             {
                 "chunk_id": chunk["chunk_id"],
-                "source": chunk["source"],
-                "page": chunk.get("page"),    # page 可能为 None，所以用 get 方法
-                "start": chunk["start"],
-                "end": chunk["end"],
+                "source": str(chunk["source"]),
+                "page": int(chunk.get("page", 0)),    # page 可能为 None，所以用 get 方法
+                "start": int(chunk["start"]),
+                "end": int(chunk["end"]),
             }
             for chunk in chunks
         ]

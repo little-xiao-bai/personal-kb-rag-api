@@ -30,6 +30,7 @@ from pathlib import Path
 # 读取 .env 环境变量
 from dotenv import load_dotenv
 
+import traceback
 
 
 # =========================
@@ -454,6 +455,27 @@ def upload_document(request:DocumentUploadRequest):
 
     注意：
     本接口只负责文档进入系统，不做 chunk / embedding / index
+
+    请求示例：
+    {
+        "file_paths": [
+            "data/sample.md",
+            "data/sample.txt",
+            "data/sample.pdf"
+        ]
+    }
+
+    返回：
+    {
+        "registered_documents": [
+            "sample.md",
+            "sample.txt",
+            "sample.pdf"
+        ],
+        "failed_documents": [],
+        "documents_count": 3,
+        "error": null
+    }
     """
 
     registered_documents = []
@@ -505,6 +527,28 @@ def index_document(request:DocumentIndexRequest):
     3. embed_texts()
     4. vector_store.add_chunks()
     5. 返回索引结果
+
+    请求示例：
+    {
+        "document_ids": [
+            "sample.md",
+            "sample.txt",
+            "sample.pdf"
+        ],
+        "chunk_size": 500
+    }
+
+    返回：
+    {
+        "registered_documents": [
+            "data/sample.md",
+            "data/sample.txt",
+            "data/sample.pdf"
+        ],
+        "failed_documents": [],
+        "documents_count": 3,
+        "error": null
+    }
     """
 
     try:
@@ -515,11 +559,14 @@ def index_document(request:DocumentIndexRequest):
             if document_id not in DOCUMENT_REGISTRY:
                 raise ValueError(f"document_id 未注册，请先调用 /documents/upload: {document_id}")
             
+            print("1")
+
             doc = DOCUMENT_REGISTRY[document_id]
             indexed_document_ids.append(document_id)
 
             # PDF: 按页切分，保留 page
             if doc["metadata"]["file_type"] == "pdf":
+                print("2")
                 for page_item in doc["pages"]:
                     page_chunks = split_text(
                         text = page_item["text"],
@@ -528,13 +575,17 @@ def index_document(request:DocumentIndexRequest):
                         page=page_item["page"]
                     )
                     all_chunks.extend(page_chunks)
+                    
+            
 
             # TXT / MD：按全文切分
             else:
+                print("3")
                 chunks = split_text(
                     text=doc["text"],
                     source=doc["source"],
-                    chunk_size=request.chunk_size
+                    chunk_size=request.chunk_size,
+                    page=0
                 )
                 all_chunks.extend(chunks)
 
@@ -547,14 +598,17 @@ def index_document(request:DocumentIndexRequest):
             error="没有生成任何 chunk"
         )
 
+        print("4")
         # 生成 embedding
         texts = [chunk["text"] for chunk in all_chunks]
         embeddings = embedder.embed_texts(texts)
 
+        print("5")
         # 存入 Chroma 向量库
         vector_store.add_chunks(
             chunks=all_chunks,
-            embeddings=embeddings)
+            embeddings=embeddings,
+            )
         
         # 返回结果
 
@@ -565,6 +619,8 @@ def index_document(request:DocumentIndexRequest):
             error=None
         )
     except Exception as e:
+        print("⚠️ /documents/index 出错！")
+        traceback.print_exc()   # 打印完整 traceback 到控制台
         return DocumentIndexResponse(
             document_id=None,
             chunks_count=0,
