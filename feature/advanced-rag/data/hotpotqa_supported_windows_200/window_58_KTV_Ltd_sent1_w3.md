@@ -1,0 +1,7 @@
+KTV Ltd.
+
+KTV Ltd. is a DVB-T SD and HD encrypted UHF TV and radio service operating in Stanley, capital of the Falkland Islands, and also in part of the Camp.
+
+The charge for receiving the service of 33 TV and radio channels is £36 per month.
+
+Founded in 1980 by Sharon and Mario Zuvic Bulic, KTV Ltd. receives channels from the UK, US, Saint Helena Island, and Chile and rebroadcasts them to subscribers in the Falkland Islands.

@@ -1,0 +1,5 @@
+St Mary's Catholic High School, Grimsby
+
+St Mary's Catholic School was a Roman Catholic secondary school located in Grimsby, Lincolnshire, England.
+
+The school closed at the end of the academic year in 2010, in preparation for its amalgamation with Matthew Humberstone School to form St. Andrew's College, a joint faith school which opened in September 2010.

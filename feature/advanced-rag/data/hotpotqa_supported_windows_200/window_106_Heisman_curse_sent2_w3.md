@@ -1,0 +1,7 @@
+Heisman curse
+
+The "curse" supposes that any college football player who wins the Heisman plays on a team that will likely lose its subsequent bowl game.
+
+The trend of post-award failure has garnered the attention of the mainstream media.
+
+Talk of a curse in relation to bowl results was particularly prevalent from 2003 to 2008, when six Heisman Trophy winners compiled a cumulative 1–5 bowl game record, and five of those six led number one ranked teams into the Bowl Championship Series (BCS) National Championship Game as favorites (Heisman Trophy winners, including Reggie Bush, who gave back his Heisman Trophy, are 4–8 overall in the BCS National Championship Game and College Football Playoff National Championship, although prior to 2009 they were 1–6).

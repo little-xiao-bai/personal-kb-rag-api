@@ -1,0 +1,5 @@
+Working fluid
+
+Examples include steam in a steam engine, air in a hot air engine and hydraulic fluid in a hydraulic motor or hydraulic cylinder.
+
+More generally, in a thermodynamic system, the working fluid is a liquid or gas that absorbs or transmits energy.

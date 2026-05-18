@@ -1,0 +1,7 @@
+Gidget Goes to Rome
+
+Gidget Goes to Rome is a 1963 Columbia Pictures Eastmancolor feature film starring Cindy Carol as the archetypal high school teen surfer girl originally created by Sandra Dee in the 1959 film "Gidget".
+
+The film is the third of three Gidget films directed by Paul Wendkos and expands upon Gidget's romance with boyfriend Moondoggie.
+
+The screenplay was written by Ruth Brooks Flippen based on characters created by Frederick Kohner.

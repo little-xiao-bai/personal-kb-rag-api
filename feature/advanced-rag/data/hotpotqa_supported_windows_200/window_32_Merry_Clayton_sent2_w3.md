@@ -1,0 +1,7 @@
+Merry Clayton
+
+She provided a number of backing vocal tracks for major performing artists in the 1960s, most notably in her duet with Mick Jagger on the Rolling Stones song "Gimme Shelter."
+
+Clayton is featured in "20 Feet from Stardom", the Oscar-winning documentary about background singers and their contributions to the music industry.
+
+In 2013, she released "The Best of Merry Clayton", a compilation of her favorite songs.

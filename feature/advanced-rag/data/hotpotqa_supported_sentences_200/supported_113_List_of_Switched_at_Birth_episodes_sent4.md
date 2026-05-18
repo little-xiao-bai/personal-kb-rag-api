@@ -1,0 +1,3 @@
+List of Switched at Birth episodes
+
+On July 30, 2013, ABC Family renewed the series for a full 22-episode third season, which premiered in January 2014.

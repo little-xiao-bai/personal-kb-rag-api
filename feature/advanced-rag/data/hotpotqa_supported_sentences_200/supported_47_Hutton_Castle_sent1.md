@@ -1,0 +1,3 @@
+Hutton Castle
+
+It stands 2.5 km southeast of Chirnside and 11 km west of Berwick-on-Tweed.

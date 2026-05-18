@@ -1,0 +1,3 @@
+In the Realm of the Hackers
+
+The storyline is centered on the Australian teenagers going by the hacker names "Electron" and "Phoenix", who were members of an elite computer hacking group called 'The Realm' and hacked into some of the most secure computer networks in the world, including those of the US Naval Research Laboratory, Lawrence Livermore National Laboratory, a government lab charged with the security of the US nuclear stockpile, and NASA.

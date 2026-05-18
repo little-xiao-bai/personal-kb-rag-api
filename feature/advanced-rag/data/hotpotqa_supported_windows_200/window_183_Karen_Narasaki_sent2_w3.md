@@ -1,0 +1,7 @@
+Karen Narasaki
+
+In July 2014 President Barack Obama appointed Narasaki to serve as a Commissioner on the United States Commission on Civil Rights.
+
+She is the former president and executive director of the Asian Americans Advancing Justice | AAJC.
+
+Advancing Justice | AAJC is a Washington, D.C.-based, nonprofit civil rights organization whose mission is to advance the human and civil rights of Asian Pacific Americans through advocacy, public policy, public education and litigation.

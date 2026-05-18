@@ -1,0 +1,3 @@
+Clint Eastwood
+
+After achieving success in the Western TV series "Rawhide", he rose to international fame with his role as the Man with No Name in Sergio Leone's "Dollars" Trilogy of Spaghetti Westerns during the 1960s, and as antihero cop Harry Callahan in the five "Dirty Harry" films throughout the 1970s and 1980s.

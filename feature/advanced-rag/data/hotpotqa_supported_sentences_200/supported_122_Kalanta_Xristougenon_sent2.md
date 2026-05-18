@@ -1,0 +1,3 @@
+Kalanta Xristougenon
+
+This carol is commonly sung around Christmas and accompanied by light percussion instruments such as the Triangle (musical instrument) and Guitar.

@@ -1,0 +1,5 @@
+Lucas Carvalho
+
+Lucas da Silva Carvalho (born 16 July 1993) is a Brazilian sprinter specialising in the 400 metres.
+
+He represented his country at the 2017 World Championships without qualifying for the semifinals.

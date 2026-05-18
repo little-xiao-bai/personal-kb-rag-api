@@ -1,0 +1,7 @@
+Mike's Hard Lemonade Co.
+
+It is distributed by Labatt Breweries of Canada in the United States and owned by Anheuser-Busch InBev globally.
+
+The company produces a family of products based on its original "Mike's Hard Lemonade", first introduced in Canada in 1996, a mix of malt liquor, natural flavors and carbonated water.
+
+Mike's entered the U.S. market on April 1, 1999, changing the beverage to a mixture of lemonade flavor and an unflavored malt liquor base, due to differing tax and beverage laws.

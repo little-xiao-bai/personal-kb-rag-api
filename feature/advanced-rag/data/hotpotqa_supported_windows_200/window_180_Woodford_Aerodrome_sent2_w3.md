@@ -1,0 +1,7 @@
+Woodford Aerodrome
+
+The site, which is 6 NM north of Macclesfield, Cheshire, England, was opened by the Avro company shortly after the First World War.
+
+It became an important production centre for military aircraft during the Second World War.
+
+Notable planes made at the factory include the Avro Anson, Avro Lancaster, Avro Shackleton and Avro Vulcan.

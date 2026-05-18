@@ -1,0 +1,7 @@
+James Fieser
+
+He received his B.A. from Berea College, and his M.A. and Ph.D. in philosophy from Purdue University.
+
+He is founder and general editor of the Internet Encyclopedia of Philosophy.
+
+He is author, coauthor or editor of more than ten text books.

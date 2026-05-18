@@ -1,0 +1,7 @@
+Peter W. Smith
+
+He was active in Republican politics.
+
+In 1998 he was identified as a major financial supporter of the 1993 Troopergate story, in which several Arkansas state troopers accused U.S. President Bill Clinton of having carried out sexual dalliances while he was Governor of Arkansas.
+
+In 2017 he confirmed to the "Wall Street Journal" that he had tried in 2016 to contact computer hackers, including Russian hackers, in an attempt to obtain opposition research material to use against Hillary Clinton in the 2016 presidential election.

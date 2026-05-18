@@ -1,0 +1,5 @@
+Euromarché
+
+The first store opened in 1968 in Saint-Michel-sur-Orge.
+
+In June 1991, the group was rebought by its rival, Carrefour, for 5,2 billion francs.

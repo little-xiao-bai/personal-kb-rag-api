@@ -1,0 +1,3 @@
+Based on a True Story...
+
+It was released on March 26, 2013 via Warner Bros.

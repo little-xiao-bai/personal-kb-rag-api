@@ -1,0 +1,7 @@
+Richard Newsham
+
+He took out 2 patents for fire engines in 1721 and 1725 (Royal Patent Office 1721 patent #439 and 1725 patent #479) and soon dominated the fire engine market in England.
+
+The engine had two single-acting pistons and an air vessel placed in a tank which formed the frame of the machine.
+
+The pump was worked by people at the long cross handles.

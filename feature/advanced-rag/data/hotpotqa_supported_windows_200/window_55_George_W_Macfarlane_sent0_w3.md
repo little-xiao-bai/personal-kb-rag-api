@@ -1,0 +1,5 @@
+George W. Macfarlane
+
+George Walter Hunter Macfarlane (March 1, 1849 – February 20, 1921) was a British businessman, courtier and politician of the Kingdom of Hawaii.
+
+He served Colonel of the military staff of King Kalākaua, traveling with the monarch on his 1881 world tour.

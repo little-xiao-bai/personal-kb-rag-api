@@ -1,0 +1,5 @@
+Butch Van Artsdalen
+
+Van Artsdalen is best known as a pioneer of surfing 25-foot waves at such North Shore locations as Waimea Bay and Sunset Beach; and tube riding in Hawaii during the early 1960-1970s.
+
+A member of the Duke Kahanamoku Surf Team, he appeared in several surf movies and remained a fixture of the international surfing community until his death from alcohol-related illness in 1979.

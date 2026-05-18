@@ -1,0 +1,7 @@
+Benjamin Logan
+
+As colonel of the Kentucky County, Virginia militia during the American Revolutionary War, he was second-in-command of all the militia in Kentucky.
+
+He was also a leader in Kentucky's efforts to become a state.
+
+His brother, John Logan, was the first state treasurer of Kentucky.

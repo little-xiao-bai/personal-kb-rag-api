@@ -1,0 +1,7 @@
+Love Beats Rhymes
+
+The film stars Azealia Banks as a twenty five-year-old female rapper from Brooklyn, New York who wants to pursue a music career.
+
+The film also stars Lorraine Toussaint, Jill Scott, Lucien Laviscount, MC Jin, Hana Mae Lee, and Common.
+
+The film is awaiting release by CodeBlack Films and Lionsgate.

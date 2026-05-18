@@ -1,0 +1,5 @@
+Freud and Philosophy
+
+Essai sur Sigmund Freud" ) is a 1965 book about Sigmund Freud by the philosopher Paul Ricœur.
+
+Sometimes grouped with works such as Jürgen Habermas's "Knowledge and Human Interests" (1968), "Freud and Philosophy" has received praise, but critics have argued Ricœur provides a mistaken interpretation of Freud.

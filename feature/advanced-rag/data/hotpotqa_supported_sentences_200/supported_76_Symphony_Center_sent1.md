@@ -1,0 +1,3 @@
+Symphony Center
+
+Home to the Chicago Symphony Orchestra; Chicago Symphony Chorus; Civic Orchestra of Chicago; and the Institute for Learning, Access, and Training; Symphony Center includes the 2,522-seat Orchestra Hall, which dates from 1904; Buntrock Hall, a rehearsal and performance space; Grainger Ballroom, an event space overlooking Michigan Avenue and the Art Institute of Chicago; a public multi-story rotunda; tesori restaurant; and administrative offices.

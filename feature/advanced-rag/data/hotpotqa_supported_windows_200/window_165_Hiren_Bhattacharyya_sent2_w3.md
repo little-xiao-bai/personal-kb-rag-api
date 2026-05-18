@@ -1,0 +1,7 @@
+Hiren Bhattacharyya
+
+He had innumerable works published in Assamese and achieved many prizes and accolades for his poetry.
+
+He is known as Hiruda () among his fans.
+
+Prem aru Rodalir Kobi ("Poet of Love and Sunshine") () is his other name in the Assamese literature.

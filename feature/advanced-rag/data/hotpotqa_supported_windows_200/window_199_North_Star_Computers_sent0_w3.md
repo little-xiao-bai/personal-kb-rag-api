@@ -1,0 +1,5 @@
+North Star Computers
+
+North Star Computers Inc. (later styled as NorthStar™) was an American computer company based in Berkeley, California existing between June 1976 (when according to popular rumor it was formed as "Kentucky Fried Computers") and 1984.
+
+Originally a mail order business for IMSAI computers, it soon developed into a major player in the early microcomputer market, becoming first known for their low-cost floppy disk system for S-100 bus machines, and later for their own S-100 bus computers running either the CP/M operating system or North Star's own proprietary operating system, NSDOS.

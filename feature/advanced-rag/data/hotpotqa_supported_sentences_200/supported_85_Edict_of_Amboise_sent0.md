@@ -1,0 +1,3 @@
+Edict of Amboise
+
+The Edict of Amboise also known as the Edict of Pacification, was signed at the Château of Amboise on 19 March 1563 by Catherine de' Medici, acting as regent for her son Charles IX of France.

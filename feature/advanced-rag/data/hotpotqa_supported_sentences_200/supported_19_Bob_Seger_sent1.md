@@ -1,0 +1,3 @@
+Bob Seger
+
+As a locally successful Detroit-area artist, he performed and recorded as Bob Seger and the Last Heard and Bob Seger System throughout the 1960s.

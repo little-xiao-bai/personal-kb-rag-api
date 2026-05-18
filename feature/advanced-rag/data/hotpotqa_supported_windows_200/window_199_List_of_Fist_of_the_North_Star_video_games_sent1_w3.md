@@ -1,0 +1,7 @@
+List of Fist of the North Star video games
+
+The following is a list of video games based on the manga "Fist of the North Star".
+
+Since 1986 , many video games based on the "Hokuto no Ken" franchise have been released for the Japanese market, including coin-operated arcade games and computer software.
+
+The majority of these games were released only in Japan, with the exceptions of "Fist of the North Star" for the Nintendo Entertainment System by Taxan Soft in 1989 , "Fist of the North Star: 10 Big Brawls for the King of Universe" for the Game Boy by Electro Brain in 1991 , and the "" series by Koei Tecmo, which started in 2010 .

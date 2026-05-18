@@ -1,0 +1,7 @@
+Be Our Guest
+
+Recorded by American actor Jerry Orbach and English actress Angela Lansbury as Lumiere and Mrs. Potts, respectively, "Be Our Guest" is a large-scale Broadway-inspired musical number that takes place during the first half of "Beauty and the Beast", performed by the castle's staff of enchanted objects in an elaborate attempt to welcome Belle.
+
+Menken initially intended for the melody of "Be Our Guest" to be temporary but was ultimately unable to compose a satisfying one with which to replace it.
+
+The song had originally been intended for Belle's father Maurice.

@@ -1,0 +1,3 @@
+List of Parks and Recreation characters
+
+The protagonist is Leslie Knope (Amy Poehler), the deputy parks director as well as serving on city council, and the rest of the ensemble cast consists of her friends and co-workers, including nurse Ann Perkins (Rashida Jones), parks director Ron Swanson (Nick Offerman), and parks department employees Tom Haverford (Aziz Ansari), April Ludgate (Aubrey Plaza), Andy Dwyer (Chris Pratt), Jerry Gergich (Jim O'Heir), and Donna Meagle (Retta).

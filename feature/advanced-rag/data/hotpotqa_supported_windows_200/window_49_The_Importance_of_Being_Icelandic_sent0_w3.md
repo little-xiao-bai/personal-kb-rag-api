@@ -1,0 +1,5 @@
+The Importance of Being Icelandic
+
+The Importance of Being Icelandic is a 1998 documentary film by the filmmaker Jon Gustafsson (born in Iceland and living in Canada) that traces the steps of three Icelandic Canadians on a different quest of discovering their Icelandic heritage by going to Iceland.
+
+In addition to their time in Iceland, he returns with them to Canada and captures their reactions of the Islendingadagurinn celebrated each year at Gimli.

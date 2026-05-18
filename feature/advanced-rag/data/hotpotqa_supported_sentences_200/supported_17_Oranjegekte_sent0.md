@@ -1,0 +1,3 @@
+Oranjegekte
+
+Oranjegekte (Orange craze) or Oranjekoorts (Orange fever) is a phenomenon in the Netherlands that occurs during major sporting events, especially international football championships, and during Koningsdag, an annual holiday celebrating the king's birthday.

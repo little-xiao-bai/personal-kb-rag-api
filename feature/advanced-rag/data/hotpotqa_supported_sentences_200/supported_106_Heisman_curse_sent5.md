@@ -1,0 +1,3 @@
+Heisman curse
+
+Although many Heisman winners have not enjoyed success at the professional level, including players like Matt Leinart, Andre Ware, Jason White, Rashaan Salaam, Eric Crouch, Ty Detmer, Troy Smith and Gino Torretta, proponents of the "curse" rarely cite highly successful players such as Barry Sanders, Charles Woodson, Eddie George, Tim Brown, Bo Jackson, Marcus Allen, Earl Campbell, and Tony Dorsett among the notables.

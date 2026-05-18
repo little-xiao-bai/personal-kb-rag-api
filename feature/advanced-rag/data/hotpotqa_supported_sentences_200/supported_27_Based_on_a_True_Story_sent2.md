@@ -1,0 +1,3 @@
+Based on a True Story...
+
+Records and debuted at #3 with a career best for Shelton at nearly 200,000 sold.

@@ -1,0 +1,7 @@
+Battle of Fallen Timbers
+
+The Battle of Fallen Timbers (August 20, 1794) was the final battle of the Northwest Indian War, a struggle between Native American tribes affiliated with the Western Confederacy, including support from the British led by Captain Alexander McKillop, against the United States for control of the Northwest Territory (an area north of the Ohio River, east of the Mississippi River, and southwest of the Great Lakes).
+
+This land had been ceded to the United States in accordance with the Treaty of Paris (1783), but the Native Americans (who had not been party to the treaty) refused to comply with the treaty and relinquish control.
+
+British army bases were maintained there to support their Native allies.

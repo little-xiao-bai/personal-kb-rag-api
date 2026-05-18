@@ -1,0 +1,7 @@
+Stand-up comedy
+
+In stand-up comedy, the comedian usually recites a grouping of humorous stories, jokes and one-liners typically called a monologue, routine, or act.
+
+Some stand-up comedians use props, music, or magic tricks to "enhance" their acts.
+
+Stand-up comedy is often performed in comedy clubs, bars and pubs, nightclubs, neo-burlesques, colleges and theatres. Outside of live performance, stand-up is often distributed commercially via television, DVD, CD and the internet.

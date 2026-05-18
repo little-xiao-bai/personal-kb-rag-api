@@ -1,0 +1,7 @@
+Wheeling Island
+
+Wheeling Island is the most populated island in the Ohio River.
+
+It lies within the city of Wheeling in Ohio County, West Virginia, in the United States.
+
+The 2000 census showed a resident population of 3,142 people on the island, which has a land area of 1.514 km² (374 acres).

@@ -1,0 +1,5 @@
+KOKO-FM
+
+KOKO-FM is a classic hits radio station broadcasting from Kerman, California, for the Fresno area with studio and office located in Los Angeles, California.
+
+KOKO 94 is the home for the Art Laboe Connection, and The Art Laboe Sunday Night Special.

@@ -1,0 +1,7 @@
+Hartbeat!
+
+hartbeat!
+
+was a German music publication published from 1984 to 1998 which focused on punk rock, power pop, garage rock, beat music, rock music, and psychedelic music styles.
+
+The time period of the music detailed ranged from the 1960s to the late 1990s.

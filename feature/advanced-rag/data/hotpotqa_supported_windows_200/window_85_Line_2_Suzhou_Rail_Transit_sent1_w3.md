@@ -1,0 +1,7 @@
+Line 2, Suzhou Rail Transit
+
+Line 2 is the main north-south line of Suzhou Rail Transit.
+
+The length of first phase is 26.557 km, among them, 6.57 km is elevated, 19.146 km is underground and 0.67 km is open wide.
+
+The line's first phase started from Suzhou North Railway Station (高铁苏州北站) and ended in Baodaiqiao South Station (宝带桥南站) near Baodai Bridge (宝带桥).

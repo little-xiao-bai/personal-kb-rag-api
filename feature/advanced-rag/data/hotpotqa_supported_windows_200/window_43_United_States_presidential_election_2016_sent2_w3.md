@@ -1,0 +1,7 @@
+United States presidential election, 2016
+
+In a surprise victory, the Republican ticket of businessman Donald Trump and Indiana Governor Mike Pence defeated the Democratic ticket of former First Lady, U.S. Senator of New York and Secretary of State Hillary Clinton and U.S. Senator from Virginia Tim Kaine.
+
+Trump took office as the 45th President, and Pence as the 48th Vice President, on January 20, 2017.
+
+Concurrent with the presidential election, Senate, House, and many gubernatorial and state and local elections were also held on November 8.

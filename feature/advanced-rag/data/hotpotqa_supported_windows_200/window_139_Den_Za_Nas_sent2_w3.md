@@ -1,0 +1,7 @@
+Den Za Nas
+
+It is a 2-CD set which contains all of the songs performed on the National final in order to select a song for the Eurovision Song Contest 2004 with which Proeski would represent Macedonia in the contest.
+
+The winning song was "Life" which qualified for the final and finished on the 14th place in the final.
+
+Some extra songs such as "Dzvezdo Severnice", "Me Sakaš So Zborovi", "Ima Li Den Za Nas" and others were recorded especially for the album.

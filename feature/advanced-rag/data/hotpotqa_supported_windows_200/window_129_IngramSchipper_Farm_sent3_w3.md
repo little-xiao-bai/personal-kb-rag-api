@@ -1,0 +1,5 @@
+Ingram–Schipper Farm
+
+The house features a Victorian period flat-roofed one-story porch and a slate roof.
+
+The property includes a number of early outbuildings, including a brick kitchen and wash house, three log buildings, one of which has a fireplace and appears to have been a dwelling, and a large stone barn.

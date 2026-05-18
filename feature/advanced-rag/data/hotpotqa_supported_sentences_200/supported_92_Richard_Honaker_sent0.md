@@ -1,0 +1,3 @@
+Richard Honaker
+
+Richard Henderson Honaker (born March 10, 1951) is a lawyer in Rock Springs, Wyoming who was nominated on March 19, 2007, by U.S. President George W. Bush to serve as one of three U.S. District Judges for the District of Wyoming.

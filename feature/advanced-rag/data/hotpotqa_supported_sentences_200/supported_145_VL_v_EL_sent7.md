@@ -1,0 +1,3 @@
+V.L. v. E.L.
+
+On December 14, 2015, the Supreme Court stayed the ruling pending their action on a petition for a writ of certiorari filed by V.L. On March 7, 2016, the Supreme Court of the United States reversed the decision of the Alabama Supreme Court by per curiam summary disposition.

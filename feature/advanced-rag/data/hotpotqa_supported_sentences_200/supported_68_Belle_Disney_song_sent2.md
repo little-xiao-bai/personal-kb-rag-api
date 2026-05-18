@@ -1,0 +1,3 @@
+Belle (Disney song)
+
+The film's first song and opening number, "Belle" appears during "Beauty and the Beast "as a large scale operetta-style production number that introduces the film's heroine Belle, considered a book-loving nonconformist by the townspeople of the village, who has grown weary of the provincial life in which she is supposed to live, and Gaston, the film's narcissistic villain who wishes to desire her hand in marriage despite Belle's rejections.

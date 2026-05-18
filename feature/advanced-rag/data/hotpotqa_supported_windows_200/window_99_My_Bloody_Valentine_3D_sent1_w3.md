@@ -1,0 +1,7 @@
+My Bloody Valentine 3D
+
+My Bloody Valentine 3D is a 2009 American slasher film.
+
+It is a reboot of the 1981 Canadian slasher film of the same name.
+
+The film was directed and edited by Patrick Lussier, and stars Jensen Ackles, Jaime King, Betsy Rue, and Kerr Smith.

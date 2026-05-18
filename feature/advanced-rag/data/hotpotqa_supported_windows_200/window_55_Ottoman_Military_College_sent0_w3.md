@@ -1,0 +1,5 @@
+Ottoman Military College
+
+The Ottoman Military College or Imperial Military Staff College or Ottoman Army War College (Ottoman Turkish: "Mekteb-i Erkân-ı Harbiyye-i Şâhâne"‎ or "Erkân-ı Harbiye Mektebi"), was a two-year military staff college of the Ottoman Empire.
+
+It was located in Istanbul.

@@ -1,0 +1,7 @@
+Zaj
+
+The group received major contributions by different artists from the Spanish avant-garde scene, notably from the writer and diplomat José Luis Castillejo and from the interdisciplinary artist Esther Ferrer.
+
+During the 1960s, members of Zaj took part in different Fluxus events organised by George Maciunas.
+
+With the help of John Cage and his agent Mimi Johnson, Zaj also toured in different cities in the United States in the late 1970s.

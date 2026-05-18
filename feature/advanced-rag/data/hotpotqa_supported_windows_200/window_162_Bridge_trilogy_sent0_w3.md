@@ -1,0 +1,5 @@
+Bridge trilogy
+
+The Bridge trilogy is a series of novels by William Gibson, his second after the successful Sprawl trilogy.
+
+The trilogy comprises the novels "Virtual Light" (1993), "Idoru," (1996) and "All Tomorrow's Parties" (1999).

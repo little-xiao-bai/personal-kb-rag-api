@@ -1,0 +1,5 @@
+John Culp
+
+John Culp is a professor who works at the Azusa Pacific University in the Department of Philosophy.
+
+He specializes in the philosophy of religion, history of philosophy and Wesleyan theology.

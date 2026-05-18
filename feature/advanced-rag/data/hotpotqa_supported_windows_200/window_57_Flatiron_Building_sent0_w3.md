@@ -1,0 +1,5 @@
+Flatiron Building
+
+The Flatiron Building, originally the Fuller Building, is a triangular 22-story steel-framed landmarked building located at 175 Fifth Avenue in the borough of Manhattan, New York City, and is considered to be a groundbreaking skyscraper.
+
+Upon completion in 1902, it was one of the tallest buildings in the city at 20 floors high and one of only two skyscrapers north of 14th Street – the other being the Metropolitan Life Insurance Company Tower, one block east.

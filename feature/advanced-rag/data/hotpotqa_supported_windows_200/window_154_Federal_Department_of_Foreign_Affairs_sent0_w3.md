@@ -1,0 +1,5 @@
+Federal Department of Foreign Affairs
+
+The Federal Department of Foreign Affairs (FDFA, German: "Eidgenössisches Departement für auswärtige Angelegenheiten" , French: "Département fédéral des affaires étrangères" , Italian: "Dipartimento federale degli affari esteri" , Romansh: "" ), so named since 1979, is one of the seven Departments of the Swiss government federal administration of Switzerland, and corresponds in its range of tasks to the ministry of foreign affairs in other countries.
+
+The Department is always headed by one of the members of the Swiss Federal Council.

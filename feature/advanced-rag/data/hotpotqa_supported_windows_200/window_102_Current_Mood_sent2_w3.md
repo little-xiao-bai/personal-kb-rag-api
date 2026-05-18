@@ -1,0 +1,5 @@
+Current Mood
+
+It was released on September 8, 2017, via Broken Bow Records.
+
+The album includes the singles "Seein' Red" and "Small Town Boy", which have both reached number one on the Country Airplay chart.

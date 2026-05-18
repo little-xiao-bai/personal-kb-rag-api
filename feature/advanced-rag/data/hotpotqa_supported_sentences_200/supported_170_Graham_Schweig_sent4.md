@@ -1,0 +1,3 @@
+Graham Schweig
+
+Since 2007, Schweig has presented over three dozen invited lectures in his field at the the Smithsonian Institution in Washington, DC.Schweig is an "experienced registered yoga teacher at the 500 hour level (ERYT-500 as well as YACEP)" with Yoga Alliance, and he has held numerous teacher training workshops in the areas of yoga philosophy, history of yoga, Sanskrit for yoga teachers, and advanced trainings in meditation for teachers of yoga.

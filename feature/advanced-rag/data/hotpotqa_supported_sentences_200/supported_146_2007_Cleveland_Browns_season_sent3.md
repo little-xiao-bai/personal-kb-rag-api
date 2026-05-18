@@ -1,0 +1,3 @@
+2007 Cleveland Browns season
+
+The Browns remained under the supervision of head coach Romeo Crennel and they played all of their home games in Cleveland Browns Stadium in Cleveland, Ohio.

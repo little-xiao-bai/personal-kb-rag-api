@@ -1,0 +1,3 @@
+Lady Alexandra Curzon
+
+Lady Alexandra Naldera Curzon, CBE (20 March/April 1904 – 7 August 1995), was the third daughter of George Curzon, 1st Marquess Curzon of Kedleston and Viceroy of India, and Lord Curzon's first wife, the American mercantile heiress, Mary Victoria Curzon, Baroness Curzon of Kedleston (née Leiter).

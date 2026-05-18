@@ -1,0 +1,5 @@
+West Yorkshire Association Football League
+
+It was previously known as the Leeds League until the name change in 1939.
+
+Although it is named the "West Yorkshire" League, clubs from the Harrogate and York areas of North Yorkshire also play in the competition.

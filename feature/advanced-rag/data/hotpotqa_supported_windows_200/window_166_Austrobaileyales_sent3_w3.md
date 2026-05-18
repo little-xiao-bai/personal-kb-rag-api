@@ -1,0 +1,5 @@
+Austrobaileyales
+
+The order belongs to the group of basal angiosperms, the ANA grade, which diverged earlier from the remaining flowering plants, and, as such, it is the extant group after the Amborellales and Nymphaeales, that is sister to all remaining extant angiosperms outside of the ANA grade.
+
+The order includes just three families of flowering plants, the Austrobaileyaceae, a monotypic family containing the sole genus, "Austrobaileya scandens", a woody liana, the Schisandraceae, a family of trees, shrubs, or lianas containing essential oils, and the Trimeniaceae, essential oil-bearing trees and lianas.

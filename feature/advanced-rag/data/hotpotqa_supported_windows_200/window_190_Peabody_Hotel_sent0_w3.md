@@ -1,0 +1,5 @@
+Peabody Hotel
+
+The Peabody Memphis is a luxury hotel in Downtown Memphis, Tennessee.
+
+The hotel is known for the "Peabody Ducks" that live on the hotel rooftop and make daily treks to the lobby.

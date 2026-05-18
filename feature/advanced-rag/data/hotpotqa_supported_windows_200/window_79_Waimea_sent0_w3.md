@@ -1,0 +1,5 @@
+Waimea
+
+Waimea is a common name in Hawaii and New Zealand.
+
+In Hawaiian, it means reddish water, but in Maori it has no meaning.

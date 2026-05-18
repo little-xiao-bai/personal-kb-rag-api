@@ -1,0 +1,5 @@
+Irshad Khan
+
+Irshad Khan is a surbahar and sitar player based in Canada.
+
+He is the second son of Ustad Imrat Khan and nephew of Ustad Vilayat Khan.

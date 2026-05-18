@@ -1,0 +1,7 @@
+Air Tahoma Flight 185
+
+On August 13, 2004, the flight crashed during approach to landing just one mile short of the runway.
+
+The Convair 580, which is a twin engine turboprop, was destroyed upon impact.
+
+The first officer was killed and the captain received minor injuries.

@@ -1,0 +1,3 @@
+Wilton Mall
+
+Wilton Mall at Saratoga (or simply The Wilton Mall) is a regional shopping center, located off Interstate 87 exit 15 in the town of Wilton, directly north of Saratoga Springs, New York.

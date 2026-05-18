@@ -1,0 +1,7 @@
+Stanton Y. Hill
+
+Stanton Hill is an American broadcast producer and voice actor.
+
+He has produced television commercials for clients such as Pepsi, Activision, Nissan, Budweiser, McDonald's, Energizer, Jimmy Dean, and Visa.
+
+In 2007 he produced the award winning short film "Stars" starring Kevin Durand and directed by Jason Eli Lewis.

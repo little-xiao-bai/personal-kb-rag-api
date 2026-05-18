@@ -1,0 +1,7 @@
+South Phoenix
+
+The area is sometimes simply referred to as "the Southside" by its residents.
+
+Major arterial east-west streets include Broadway Road, Southern Avenue, Baseline Road, Dobbins Road, Elliott Road, Warner Road, Chandler Boulevard, and Pecos Road, most of which connect South Phoenix with the suburbs of Tempe and Chandler.
+
+Major arterial south-north streets include 24th Street, 16th Street, 7th Street, Central Avenue, 7th Avenue, and 19th Avenue connecting South Mountain Village to Central and North Phoenix; 27th Avenue, 35th Avenue, 43rd Avenue, 51st Avenue, 59th Avenue, 67th Avenue, and 75th Avenue connecting Laveen to west Phoenix; and 32nd Street, 40th Street, and 48th Street connecting South Mountain Village to east Phoenix and Tempe.

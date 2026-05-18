@@ -1,0 +1,5 @@
+The Informant!
+
+Written by Scott Z. Burns, the film stars Matt Damon as the titular informant named Mark Whitacre, as well as Scott Bakula, Joel McHale and Melanie Lynskey.
+
+It depicts Whitacre's involvement as a whistle blower in the lysine price-fixing conspiracy of the mid-1990s as described in the 2000 nonfiction book "The Informant", by journalist Kurt Eichenwald.

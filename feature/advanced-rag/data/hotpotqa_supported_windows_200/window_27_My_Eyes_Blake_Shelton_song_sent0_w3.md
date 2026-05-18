@@ -1,0 +1,5 @@
+My Eyes (Blake Shelton song)
+
+"My Eyes" is a song recorded by American country music artist Blake Shelton featuring Gwen Sebastian.
+
+It was released in April 2014 as the fifth single from his seventh studio album, "Based on a True Story...".

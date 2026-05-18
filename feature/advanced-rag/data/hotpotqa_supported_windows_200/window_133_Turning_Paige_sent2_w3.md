@@ -1,0 +1,5 @@
+Turning Paige
+
+The film focuses on the life of Paige (Katharine Isabelle) and her family a she comes to terms with tragedy in the family's past.
+
+The film's title refers to the phrase "turn the page" as the central character must come to terms with her past and put it behind her if she is to move on in life.

@@ -1,0 +1,3 @@
+Bob Seger
+
+In 1976, he achieved a national breakout with the studio album "Night Moves".

@@ -1,0 +1,7 @@
+Antoine Quinquet
+
+Antoine Quinquet was a French pharmacist who was born in Soissons on 9 March 1745.
+
+In 1760 he was apprenticed to an apothecary in Soissons and in 1777 he moved to Paris where he worked for Antoine Baumé.
+
+He travelled to Geneva, where he met Aimé Argand.

@@ -1,0 +1,3 @@
+Cumbrian dialect
+
+The Cumbrian dialect is a local Northern English dialect in decline, spoken in Cumbria (including historic Cumberland and Westmorland) and surrounding northern England, not to be confused with the area's extinct Celtic language, Cumbric.

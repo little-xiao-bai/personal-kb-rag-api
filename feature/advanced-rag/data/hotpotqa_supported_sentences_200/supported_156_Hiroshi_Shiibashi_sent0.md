@@ -1,0 +1,3 @@
+Hiroshi Shiibashi
+
+Hiroshi Shiibashi (椎橋寛 , Shībashi Hiroshi , born June 6, 1980, Suita, Osaka, Japan) is a Japanese manga artist known for the manga "", which has been adapted into an anime series.

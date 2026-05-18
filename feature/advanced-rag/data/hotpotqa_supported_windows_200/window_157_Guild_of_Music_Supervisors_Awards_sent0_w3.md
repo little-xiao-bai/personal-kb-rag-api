@@ -1,0 +1,5 @@
+Guild of Music Supervisors Awards
+
+The Guild of Music Supervisors Awards recognize music supervisors in 14 categories, representing movies, television, games and trailers. "
+
+Compton", "Carol" and "Furious 7" were among the winners of the 2016 ceremony, while "La la land" of the 2017 ceremony.

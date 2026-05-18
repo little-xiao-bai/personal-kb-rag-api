@@ -1,0 +1,7 @@
+Cayman Enterprise City
+
+Cayman Enterprise City is a special economic zone located in the Cayman Islands.
+
+It is government initiative that has been outsourced to Cayman Enterprise City, a privately owned development company.
+
+To facilitate the development of special economic zones in the Cayman Islands, special economic zones laws were enacted in September 2011 and February 2012.

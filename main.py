@@ -22,6 +22,7 @@ from services.embedding import EmbeddingClient  # Embedding 客户端
 from services.vector_store import ChromaVectorStore  # 向量数据库
 from services.document_loader import load_document  # 文档加载器
 from services.chunker import split_text          # 文本切 chunk 工具
+from services.reranker import Reranker     # Reranker 重排序器
 
 # 系统工具
 import os
@@ -83,7 +84,12 @@ llm_client = LLMClient(
 #
 # 给 RAG 检索使用
 # embedder = EmbeddingClient()
-embedder = EmbeddingClient(model_name = "sentence-transformers/all-MiniLM-L6-v2")
+
+# embedder = EmbeddingClient(model_name = "sentence-transformers/all-MiniLM-L6-v2")
+
+embedder = EmbeddingClient(
+    model_name="BAAI/bge-small-en-v1.5"
+)
 
 # -------------------------
 # 3. Chroma 向量数据库
@@ -91,9 +97,32 @@ embedder = EmbeddingClient(model_name = "sentence-transformers/all-MiniLM-L6-v2"
 # 用于：
 # 保存 chunks
 # 向量检索
+# vector_store = ChromaVectorStore(
+#     persist_dir=str(ROOT_DIR / "chroma_db"), 
+#     collection_name="documents")
+
+# vector_store = ChromaVectorStore(
+#     persist_dir=r"D:\SWL_chroma_db\hotpot_supported_sentences_200",
+#     collection_name="hotpot_supported_sentences"
+# )
+
+# vector_store = ChromaVectorStore(
+#     persist_dir=r"D:\SWL_chroma_db_supported_sentences_200_bge",
+#     collection_name="hotpot_supported_sentences_200_bge"
+# )
+
 vector_store = ChromaVectorStore(
-    persist_dir=str(ROOT_DIR / "chroma_db"), 
-    collection_name="documents")
+    persist_dir=r"D:\SWL_chroma_db\hotpot_supported_windows_200_bge",
+    collection_name="hotpot_supported_windows_200_bge"
+)
+
+
+# -------------------------
+# 4. Reranker 重排序器
+# -------------------------
+reranker = Reranker(
+    model_name="cross-encoder/ms-marco-MiniLM-L-6-v2"
+)
 
 
 # 简单文档注册表
@@ -180,116 +209,185 @@ def rag_query(request: RAGQueryRequest):
     4. 构造 sources
     5. 拼接 answer
     6. 返回结果
+
+    请求示例：
+    {
+    "question": "What methods does the article use to solve the problem?",
+    "top_k": 3
+    }
+
     """
     try:
-         # =========================
+        #########################################################################################
+        # =========================
+        # # 1. query -> embedding
+        # # =========================
+        # # 把用户问题转成向量
+        # query_embedding = embedder.embed_query(request.question)
+
+        
+        # # =========================
+        # # 2. 向量检索
+        # # =========================
+        # # 在 Chroma 中找最相似 chunks
+        # results = vector_store.search(query_embedding=query_embedding,top_k=request.top_k)
+
+        # # =========================
+        # # 3. 构造 sources
+        # # =========================
+        # # 返回给前端：
+        # # 来源文件
+        # # 文本预览
+        # # 相似度分数
+        # sources = []
+
+        # for item in results:
+        #     metadata = item.get("metadata", {})
+
+        #     sources.append(
+        #         SourceChunk(
+        #             chunk_id=item.get("chunk_id"),
+
+        #             # 来源文件
+        #             source=metadata.get("source", ""),
+
+        #             # 页码（如果有）
+        #             page=metadata.get("page"),
+
+        #             # 文本预览
+        #             text_preview=item.get("text", "")[:500],
+
+        #             # 相似度距离
+        #             distance=item.get("distance")
+        #         )
+        #     )
+            
+        # # # =========================
+        # # # 4. 拼接检索文本
+        # # # =========================
+        # # # 当前是最小版本：
+        # # # 不调用 LLM
+        # # # 直接把检索结果拼起来
+        # # retrieved_text = "\n\n".join(
+        # #     [
+        # #          item.get("text","")
+        # #          for item in results
+        # #     ]
+        # # )
+
+        # # # 最终回答
+        # # answer = (
+        # #      "以下是根据本地知识库检索到的相关内容：\n\n"
+        # #      + retrieved_text
+        # # )
+
+
+        #  # # =========================
+        # # # 4. 拼接检索文本
+        # # # =========================
+        # # # 调用LLM生成更自然的回答
+        # # =========================
+        # # 4.1 检查是否检索到内容
+        # # =========================
+        # # 如果向量库没有返回任何结果
+        # # 直接返回提示
+        # if not results:
+        #     return RAGQueryResponse(
+        #         answer="没有找到相关内容。",
+        #         sources=[],
+        #         error=None
+        #     )
+        
+        #  # =========================
+        # # 4.2 构造上下文 context
+        # # =========================
+        # # 把检索到的 chunk 文本提取出来
+        # #
+        # # 目的：
+        # # 给 LLM 提供参考资料
+        # #
+        # # 为什么限制 [:1000]？
+        # #
+        # # 防止 chunk 太长：
+        # # - prompt 太大
+        # # - token 成本高
+        # # - 模型注意力分散
+        # context_part = []
+
+        # for item in results:
+        #     text = item.get("text", "")[:1000]   # 提取文本  # 最多保留前 1000 字符
+        #     context_part.append(text)
+
+        # # 用空行拼接成完整上下文
+        # #
+        # # 最终类似：
+        # #
+        # # chunk1内容
+        # #
+        # # chunk2内容
+        # #
+        # # chunk3内容
+        # context = "\n\n".join(context_part)
+        ############################################################################
+
+        # =========================
         # 1. query -> embedding
         # =========================
         # 把用户问题转成向量
         query_embedding = embedder.embed_query(request.question)
 
         # =========================
-        # 2. 向量检索
+        # 2. Retriever 粗召回 top20
         # =========================
-        # 在 Chroma 中找最相似 chunks
-        results = vector_store.search(query_embedding=query_embedding,top_k=request.top_k)
+        retrieved_results = vector_store.search(
+            query_embedding=query_embedding,
+            top_k=request.top_k*4
+        )
 
         # =========================
-        # 3. 构造 sources
+        # 3. Reranker 精排 top5
         # =========================
-        # 返回给前端：
-        # 来源文件
-        # 文本预览
-        # 相似度分数
+        reranked_results = reranker.rerank(
+            query=request.question,
+            chunks=retrieved_results,
+            top_k=request.top_k
+        )
+
+        if not reranked_results:
+            return RAGQueryResponse(
+                answer="I don't know.",
+                sources=[],
+                error=None
+            )
+
+        # =========================
+        # 4. 构造 sources
+        # =========================
         sources = []
 
-        for item in results:
+        for item in reranked_results:
             metadata = item.get("metadata", {})
 
             sources.append(
                 SourceChunk(
                     chunk_id=item.get("chunk_id"),
+                    source=metadata.get("source") or item.get("source", ""),
+                    page=metadata.get("page") or item.get("page"),
+                    text_preview=item.get("text", "")[:500],
 
-                    # 来源文件
-                    source=metadata.get("source", ""),
-
-                    # 页码（如果有）
-                    page=metadata.get("page"),
-
-                    # 文本预览
-                    text_preview=item.get("text", "")[:200],
-
-                    # 相似度距离
-                    distance=item.get("distance")
+                    # 临时用 distance 存 reranker_score
+                    # 更推荐后面在 SourceChunk 里新增 reranker_score 字段
+                    distance=item.get("reranker_score")
                 )
             )
-            
-        # # =========================
-        # # 4. 拼接检索文本
-        # # =========================
-        # # 当前是最小版本：
-        # # 不调用 LLM
-        # # 直接把检索结果拼起来
-        # retrieved_text = "\n\n".join(
-        #     [
-        #          item.get("text","")
-        #          for item in results
-        #     ]
-        # )
 
-        # # 最终回答
-        # answer = (
-        #      "以下是根据本地知识库检索到的相关内容：\n\n"
-        #      + retrieved_text
-        # )
-
-
-         # # =========================
-        # # 4. 拼接检索文本
-        # # =========================
-        # # 调用LLM生成更自然的回答
         # =========================
-        # 4.1 检查是否检索到内容
+        # 5. 构造 context
         # =========================
-        # 如果向量库没有返回任何结果
-        # 直接返回提示
-        if not results:
-            return RAGQueryResponse(
-                answer="没有找到相关内容。",
-                sources=[],
-                error=None
-            )
-        
-         # =========================
-        # 4.2 构造上下文 context
-        # =========================
-        # 把检索到的 chunk 文本提取出来
-        #
-        # 目的：
-        # 给 LLM 提供参考资料
-        #
-        # 为什么限制 [:1000]？
-        #
-        # 防止 chunk 太长：
-        # - prompt 太大
-        # - token 成本高
-        # - 模型注意力分散
-        context_part = []
-
-        for item in results:
-            text = item.get("text", "")[:1000]   # 提取文本  # 最多保留前 1000 字符
-            context_part.append(text)
-
-        # 用空行拼接成完整上下文
-        #
-        # 最终类似：
-        #
-        # chunk1内容
-        #
-        # chunk2内容
-        #
-        # chunk3内容
-        context = "\n\n".join(context_part)
+        context = "\n\n".join(
+            item.get("text", "")[:1000]
+            for item in reranked_results
+        )
 
         # =========================
         # 4.3 构造 RAG Prompt
@@ -300,14 +398,29 @@ def rag_query(request: RAGQueryRequest):
         # 1. 只能基于提供资料回答
         # 2. 不允许自由发挥 / 幻觉
         # 3. 没答案就明确说明
-        prompt = f"""
-        请只根据以下资料回答问题。
-        如果资料中没有答案，请明确说“当前资料不足以回答”。
+        # prompt = f"""
+        # 请只根据以下资料回答问题。
+        # 如果资料中没有答案，请明确说“当前资料不足以回答”。
 
-        资料：
+        # 资料：
+        # {context}
+
+        # 问题：
+        # {request.question}
+        # """
+
+        prompt = f"""
+        Answer in English only.
+
+        Use ONLY the retrieved context to answer.
+
+        If the answer cannot be determined from the context, say:
+        I don't know.
+
+        Context:
         {context}
 
-        问题：
+        Question:
         {request.question}
         """
 
@@ -395,7 +508,8 @@ def rag_query(request: RAGQueryRequest):
 #                 chunks = split_text(
 #                     text=doc["text"],
 #                     source=doc["source"],
-#                     chunk_size=request.chunk_size
+#                     chunk_size=request.chunk_size,
+#                     page = 0
 #                 )
 #                 all_chunks.extend(chunks)
 
@@ -495,6 +609,10 @@ def upload_document(request:DocumentUploadRequest):
             # 生成 document_id
             document_id = Path(doc["source"]).name
 
+            if document_id in DOCUMENT_REGISTRY:
+                print(f"已注册，跳过: {document_id}")
+                continue
+
             # 注册到内存 registry
             DOCUMENT_REGISTRY[document_id] = doc
 
@@ -554,19 +672,24 @@ def index_document(request:DocumentIndexRequest):
     try:
         all_chunks = []
         indexed_document_ids = []
+        
 
         for document_id in request.document_ids:
+            # 每个文档单独判断
+            document_added = False
+
+            # 1. 检查是否已注册
             if document_id not in DOCUMENT_REGISTRY:
                 raise ValueError(f"document_id 未注册，请先调用 /documents/upload: {document_id}")
             
-            print("1")
+            print(f"\n开始处理文档: {document_id}")
 
             doc = DOCUMENT_REGISTRY[document_id]
-            indexed_document_ids.append(document_id)
 
             # PDF: 按页切分，保留 page
             if doc["metadata"]["file_type"] == "pdf":
-                print("2")
+                print("PDF 文档")
+                
                 for page_item in doc["pages"]:
                     page_chunks = split_text(
                         text = page_item["text"],
@@ -574,44 +697,78 @@ def index_document(request:DocumentIndexRequest):
                         chunk_size=request.chunk_size,
                         page=page_item["page"]
                     )
+                    # 如果当前页没有 chunk
+                    if not page_chunks:
+                        continue
+
+                    # 用第一页 chunk 测试是否已索引
+                    test_chunk_id = page_chunks[0]["chunk_id"]
+
+                    existing = vector_store.collection.get(ids=[test_chunk_id])   # 查询 Chroma 看这个 chunk_id 是否已经存在了
+
+                    if existing["ids"]:
+                        print(f"已索引，跳过: {document_id} page {page_item['page']}")
+                        continue
+                    
+                    # 当前页加入索引队列
                     all_chunks.extend(page_chunks)
+                    document_added = True
                     
             
 
             # TXT / MD：按全文切分
             else:
-                print("3")
+                print("TXT / MD 文档")
+
                 chunks = split_text(
                     text=doc["text"],
                     source=doc["source"],
                     chunk_size=request.chunk_size,
                     page=0
                 )
-                all_chunks.extend(chunks)
 
-        # 如果没有生成任何 chunk
+                if not chunks:
+                    continue
+
+                test_chunk_id = chunks[0]["chunk_id"]
+
+                existing = vector_store.collection.get(ids=[test_chunk_id])
+
+                if existing and existing.get("ids"):
+                    print(f"已索引，跳过: {document_id}")
+                    continue
+
+                all_chunks.extend(chunks)
+                document_added = True
+
+            # 只有真的加入了 chunk 才记录
+            if document_added:
+                indexed_document_ids.append(document_id)
+
+        # ==================================================
+        # 没有任何新 chunk
+        # ==================================================
         if not all_chunks:
             return DocumentIndexResponse(
             document_id=", ".join(indexed_document_ids),
             chunks_count=0,
             indexed_chunks=0,
-            error="没有生成任何 chunk"
+            error="没有新的 chunk 需要索引（可能都已存在）"
         )
 
-        print("4")
-        # 生成 embedding
+        print("\n开始生成 embeddings...")
+        # 2. embedding
         texts = [chunk["text"] for chunk in all_chunks]
         embeddings = embedder.embed_texts(texts)
 
-        print("5")
-        # 存入 Chroma 向量库
+        print("开始写入 Chroma...")
+        # 3. 写入向量库
         vector_store.add_chunks(
             chunks=all_chunks,
             embeddings=embeddings,
             )
         
-        # 返回结果
-
+        # 4. 返回成功
         return DocumentIndexResponse(
             document_id=", ".join(indexed_document_ids),
             chunks_count=len(all_chunks),
@@ -627,6 +784,152 @@ def index_document(request:DocumentIndexRequest):
             indexed_chunks=0,
             error=str(e)
         )
+
+
+# ==========================================================
+# /chunks
+# ==========================================================
+@app.get("/chunks")
+def list_chunks(limit: int = 20, offset: int = 0):
+    """
+    分页查看当前 Chroma 中的 chunk 接口
+
+    方法：
+        GET
+
+    用途：
+        分页查看当前向量库中已有的 chunk
+
+    适用场景：
+        - 检查 index 是否成功
+        - 查看当前有哪些 chunk
+        - 调试 chunk_id 命名
+        - 统计 chunk 数量
+        - 避免一次性读取全部 chunk 导致 too many SQL variables
+
+    参数：
+        limit  : 每次返回多少个 chunk，默认 20
+        offset : 从第几个 chunk 开始返回，默认 0
+
+    请求示例：
+        GET /chunks
+        GET /chunks?limit=20&offset=0
+        GET /chunks?limit=20&offset=20
+
+    返回示例：
+        {
+            "total_chunks": 1076,
+            "limit": 20,
+            "offset": 0,
+            "chunks": [
+                {
+                    "chunk_id": "hotpot_1_para1.md-p0-0",
+                    "metadata": {
+                        "source": "...",
+                        "page": 0,
+                        "start": 0,
+                        "end": 500
+                    },
+                    "text_preview": "chunk 前 200 字符..."
+                }
+            ]
+        }
+    """
+
+    try:
+        # 只统计总数，不一次性读取所有 chunk
+        total_chunks = vector_store.collection.count()
+
+        # 分页读取 chunk，避免一次性 get 全部导致 SQLite 报错
+        result = vector_store.collection.get(
+            limit=limit,
+            offset=offset
+        )
+
+        chunks = []
+
+        for i in range(len(result["ids"])):
+            chunks.append({
+                "chunk_id": result["ids"][i],
+                "metadata": result["metadatas"][i],
+                "text_preview": result["documents"][i][:200]
+            })
+
+        return {
+            "total_chunks": total_chunks,
+            "limit": limit,
+            "offset": offset,
+            "chunks": chunks
+        }
+
+    except Exception as e:
+        return {
+            "error": str(e)
+        }
+
+# ==========================================================
+# /chunks/{chunk_id}
+# ==========================================================
+@app.get("/chunks/{chunk_id}")
+def get_chunk(chunk_id: str):
+    """
+    查看指定 chunk 的完整内容接口
+
+    方法：
+        GET
+
+    用途：
+        根据 chunk_id 查询 Chroma 向量库中的完整 chunk 内容
+
+    适用场景：
+        - 调试 RAG 检索结果
+        - 查看某个 chunk 的完整文本
+        - 检查 chunk 切分是否合理
+        - 检查 chunk overlap 是否正确
+        - 排查检索质量问题
+
+    请求示例：
+        GET /chunks/hotpot_7_para1.md-p0-0
+
+    返回示例（成功）：
+        {
+            "chunk_id": "hotpot_7_para1.md-p0-0",
+            "text": "完整 chunk 内容...",
+            "metadata": {
+                "source": "data/hotpotqa_paragraphs/hotpot_7_para1.md",
+                "page": 0,
+                "start": 0,
+                "end": 500
+            }
+        }
+
+    返回示例（失败）：
+        {
+            "error": "chunk 不存在"
+        }
+    """
+
+    try:
+        # 从 Chroma 根据 chunk_id 查询
+        result = vector_store.collection.get(ids=[chunk_id])
+
+        # 如果没找到
+        if not result or not result.get("ids"):
+            return {
+                "error": "chunk 不存在"
+            }
+
+        # 返回 chunk 完整内容
+        return {
+            "chunk_id": result["ids"][0],
+            "text": result["documents"][0],
+            "metadata": result["metadatas"][0]
+        }
+
+    except Exception as e:
+        return {
+            "error": str(e)
+        }
 
 # ==========================================================
 # 本地启动

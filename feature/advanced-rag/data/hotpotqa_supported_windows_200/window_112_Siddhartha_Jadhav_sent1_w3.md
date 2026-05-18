@@ -1,0 +1,7 @@
+Siddhartha Jadhav
+
+Siddhartha Ramchandra Jadhav is an Indian actor and comedian.
+
+He is popular on television and has acted in Marathi and Hindi movies making him one of the most talented and successful actors in both Marathis films and television.
+
+He has acted in several Bollywood movies like "Golmaal" and "Golmaal Returns" but he asserts that his first love is Marathi film, TV and stage.Jadhav also acted in a bengali movie named Ami Subhah Bolchi having Mithun chakraborty as the lead.

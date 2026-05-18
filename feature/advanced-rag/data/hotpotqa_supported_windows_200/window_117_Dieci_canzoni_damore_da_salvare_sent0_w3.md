@@ -1,0 +1,5 @@
+Dieci canzoni d'amore da salvare
+
+Dieci canzoni d'amore da salvare (English title: "Ten Love Songs") is a 1953 Italian film directed by Flavio Calzavara.
+
+The plot concerns a songwriter, played by Jacques Sernas who leaves his sweetheart and publisher when he learns that he is going blind.

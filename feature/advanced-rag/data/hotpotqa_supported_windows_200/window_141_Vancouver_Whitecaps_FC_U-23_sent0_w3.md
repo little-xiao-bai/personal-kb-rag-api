@@ -1,0 +1,5 @@
+Vancouver Whitecaps FC U-23
+
+Vancouver Whitecaps FC U-23, formerly known as Whitecaps FC Reserves, was a Canadian soccer team based in Vancouver, British Columbia, Canada.
+
+Although founded in 2005 as part of the development system for the Vancouver Whitecaps USL First Division franchise, beginning in 2011 they became part of the development system for Major League Soccer's Vancouver Whitecaps FC.

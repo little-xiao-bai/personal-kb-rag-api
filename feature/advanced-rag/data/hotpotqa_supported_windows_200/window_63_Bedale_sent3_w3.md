@@ -1,0 +1,5 @@
+Bedale
+
+It was originally in Richmondshire and listed in the "Domesday Book" as part of Catterick wapentake, which was also known as Hangshire (so named from Hang Bank in Finghall and because of the many gallows used to execute marauding Scots); it was split again and Bedale remained in East Hang.
+
+Bedale Beck is a tributary of the River Swale, which forms one of the Yorkshire Dales, with its predominance of agriculture and its related small traditional trades, although tourism is increasingly important.

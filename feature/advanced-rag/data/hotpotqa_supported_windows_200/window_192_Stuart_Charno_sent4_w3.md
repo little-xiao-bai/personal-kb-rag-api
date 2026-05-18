@@ -1,0 +1,7 @@
+Stuart Charno
+
+Other notable appearances of his include the 1985 comedy film "Just One of the Guys" (as Harold "Reptile" Sherpico) and the 1986 film "Modern Girls", in which he appeared with "Just One of the Guys" co-star Clayton Rohner.
+
+Charno has made guest appearances on various television shows including "M*A*S*H", "The X-Files", "Chicago Hope", "Team Knight Rider", and "Profiler".
+
+He also received story credits on three episodes of "" ("", "" and "").

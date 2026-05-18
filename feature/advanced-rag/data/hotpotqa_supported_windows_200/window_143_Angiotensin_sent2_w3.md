@@ -1,0 +1,7 @@
+Angiotensin
+
+It is part of the renin-angiotensin system, which is a major target for drugs that raises blood pressure.
+
+Angiotensin also stimulates the release of aldosterone, another hormone, from the adrenal cortex.
+
+Aldosterone promotes sodium retention in the distal nephron, in the kidney, which also drives blood pressure up.

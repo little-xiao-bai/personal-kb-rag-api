@@ -1,0 +1,3 @@
+John A. Schweitzer
+
+His work is found in the collections of the National Gallery of Canada (Ottawa ON), Canadian Museum of History (Gatineau QC), Art Gallery of Ontario (Toronto ON), Musée national des beaux-arts du Québec (Quebec QC), Musée d'art contemporain de Montréal, Montreal Museum of Fine Arts, Glenbow Museum (Calgary AB), Winnipeg Art Gallery, Beaverbrook Art Gallery (Fredericton NB), The Rooms Art Gallery of Newfoundland and Labrador (St. John's NL), and the National September 11 Memorial & Museum (New York NY).

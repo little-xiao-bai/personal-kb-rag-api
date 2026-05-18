@@ -1,0 +1,3 @@
+Jay Leiderman
+
+Leiderman "keeps an encrypted chat app open at all times so he can dispense ad hoc pro bono legal advice to members of Anonymous" Buzzfeed called Leiderman "The Maserati-Driving Deadhead Lawyer Who Stands Between Hackers And Prison" and stated he was "A medical marijuana and criminal defense lawyer from Southern California [who] has made himself into the country’s leading defender of hackers."

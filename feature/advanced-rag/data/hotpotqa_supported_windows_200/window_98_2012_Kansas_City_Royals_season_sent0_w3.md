@@ -1,0 +1,5 @@
+2012 Kansas City Royals season
+
+The Kansas City Royals' season of 2012 was the 44th for the Royals franchise.
+
+The Royals hosted the 83rd MLB All-Star Game on July 10 at Kauffman Stadium, where the team played its 40th season of home games.

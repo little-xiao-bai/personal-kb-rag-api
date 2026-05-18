@@ -1,0 +1,7 @@
+The Batman vs. Dracula
+
+The movie was released to DVD on October 18, 2005 and made its television debut on Cartoon Network's Toonami block on October 22, 2005.
+
+It was released on DVD as a tie-in with the live action "Batman Begins."
+
+When the film was first aired on TV, the TV rating given was TV-Y7-FV as it was assumed that it was going to be in the same tone as the kids TV series.

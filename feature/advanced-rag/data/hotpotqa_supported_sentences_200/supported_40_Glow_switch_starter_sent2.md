@@ -1,0 +1,3 @@
+Glow switch starter
+
+The operating principle is simple, when current is applied, the gas inside ionizes and heats a bimetallic strip which in turn bends toward the stationary electrode thus shorting the starter between the electrodes of the fluorescent lamp After a second the starter's bimetallic strip will cool and open the circuit between the electrodes and the process repeats until the lamp has lit.

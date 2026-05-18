@@ -1,0 +1,3 @@
+Armie Hammer
+
+He is known for his portrayal of the Winklevoss twins in the film "The Social Network" (2010), Prince Andrew Alcott in "Mirror Mirror" (2012), the title character in the adventure film "The Lone Ranger" (2013), Mike in "Mine" (2016), and the voice role of Jackson Storm in 2017's Disney-Pixar Film "Cars 3".

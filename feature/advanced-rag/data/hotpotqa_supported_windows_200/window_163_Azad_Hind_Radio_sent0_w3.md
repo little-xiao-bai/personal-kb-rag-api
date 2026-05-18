@@ -1,0 +1,5 @@
+Azad Hind Radio
+
+Azad Hind Radio was a propaganda radio service that was started under the leadership of Netaji Subhas Chandra Bose in Germany in 1942 to encourage Indians to fight for freedom.
+
+Though initially based in Germany, its headquarters was shifted to Singapore and later to Rangoon following the course of the war in South East Asia.

@@ -1,0 +1,3 @@
+Tara Conner
+
+Tara Elizabeth Conner (born December 18, 1985) is an American actress, model, advocate and beauty queen who was crowned Miss USA 2006 and has also competed in the Miss Teen USA and Miss Universe pageants.

@@ -1,0 +1,5 @@
+Christopher Oscar Peña
+
+Christopher Oscar Peña is a playwright, screenwright, actor and educator who resides in New York City.
+
+He teaches theater at NYU's Tisch School of Arts and is a member of the Playwrights Unit at Goodman Theatre in Chicago.

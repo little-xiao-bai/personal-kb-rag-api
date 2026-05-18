@@ -1,0 +1,3 @@
+Treehouse (game)
+
+The rolling of the special "Treehouse Die" tells the player what kind of move to make to change his own or the central configuration, and then he does so to best move towards the goal.

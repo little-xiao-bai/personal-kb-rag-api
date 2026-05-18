@@ -1,0 +1,3 @@
+Part-time job terrorism
+
+Part-time job terrorism (バイトテロ , baito tero ) is a Japanese social phenomenon; part-time employees perform pranks and stunts, such as climbing into ice cream freezers or holding their body horizontally suspended, more colloquially termed 'planking', on the counter-tops at fast-food restaurants, usually with the sole purpose of gaining recognition from their peers through the photos and/or videos they later display on social media sites.

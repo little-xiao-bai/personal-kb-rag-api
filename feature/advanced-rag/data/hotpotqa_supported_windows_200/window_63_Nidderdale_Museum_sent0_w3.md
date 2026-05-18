@@ -1,0 +1,5 @@
+Nidderdale Museum
+
+The Nidderdale Museum is housed in a former workhouse in the market town of Pateley Bridge, North Yorkshire, England.
+
+Exhibits focus on rural life and include such period room and business displays as a cobbler's workshop, schoolroom, Victorian parlour, general store, 1930s hairdresser's shop and a kitchen.

@@ -1,0 +1,5 @@
+Pterostylis crassa
+
+As with similar greenhoods, the flowering plants differ from those which are not flowering.
+
+The non-flowering plants have a rosette of leaves on a short stalk but the flowering plants have up to four relatively large, shiny dark green translucent flowers on a flowering stem with stem leaves.

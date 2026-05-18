@@ -1,0 +1,5 @@
+Second Battle of Agordat
+
+The Second Battle of Agordat was fought in late December 1893, between Italian colonial troops and Mahdists from the Sudan.
+
+Emir Ahmed Ali campaigned against the Italian forces in eastern Sudan and led about 10–12,000 men east from Kassala.

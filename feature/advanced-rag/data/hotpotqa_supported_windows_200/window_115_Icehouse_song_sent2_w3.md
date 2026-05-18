@@ -1,0 +1,5 @@
+Icehouse (song)
+
+It was released as a single in Europe in 1982 by Chrysalis Records from the band's first album, "Icehouse", after the band changed its name to Icehouse.
+
+In the United States, the song peaked at number 28 on the "Billboard" Top Tracks chart in 1981.

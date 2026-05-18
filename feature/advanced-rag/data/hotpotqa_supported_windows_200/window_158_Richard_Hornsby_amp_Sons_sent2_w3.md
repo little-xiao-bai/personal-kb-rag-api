@@ -1,0 +1,7 @@
+Richard Hornsby &amp; Sons
+
+The company was a pioneer in the manufacture of the oil engine developed by Herbert Akroyd Stuart, which was marketed under the "Hornsby-Akroyd" name.
+
+The company developed an early track system for vehicles, selling the patent to Holt & Co. (predecessor to Caterpillar Inc.) in America.
+
+In 1918, Richard Hornsby & Sons became a subsidiary of the neighbouring engineering firm Rustons of Lincoln, to create "Ruston & Hornsby".

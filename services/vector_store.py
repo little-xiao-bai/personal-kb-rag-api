@@ -49,12 +49,14 @@ class ChromaVectorStore:
         # 提取 chunk 文本
         documents = [chunk["text"] for chunk in chunks]
 
+    
+
         # 提取 metadata
         metadatas = [
             {
                 "chunk_id": chunk["chunk_id"],
                 "source": str(chunk["source"]),
-                "page": int(chunk.get("page", 0)),    # page 可能为 None，所以用 get 方法
+                "page": int(chunk.get("page") or 0),    # page 可能为 None，所以用 get 方法
                 "start": int(chunk["start"]),
                 "end": int(chunk["end"]),
             }
@@ -144,58 +146,73 @@ if __name__ == "__main__":
     from services.embedding import EmbeddingClient
 
     # 测试文档路径
-    doc_path = ROOT_DIR / "data/sample.pdf"
+    # doc_path = ROOT_DIR / "data" / "hotpotqa_paragraphs"/ "hotpot_1_para1.md"
 
-    # 加载文档
-    doc = load_document(doc_path)
 
-    # # 切 chunk
-    # chunks = split_text(
-    #     text=doc["text"],
-    #     source=doc["source"],
-    #     chunk_size=500,
-    # )
+    # # 加载文档
+    # doc = load_document(doc_path)
 
-    #####################
-    # 加入 PDF 按页切分逻辑
-    if doc["metadata"]["file_type"] == "pdf":
-        chunks = []
+    # # # 切 chunk
+    # # chunks = split_text(
+    # #     text=doc["text"],
+    # #     source=doc["source"],
+    # #     chunk_size=500,
+    # # )
 
-        for page_item in doc["pages"]:
-            page_chunks = split_text(
-                text=page_item["text"],
-                source=doc["source"],
-                chunk_size=500,
-                page=page_item["page"],
-            )
-            chunks.extend(page_chunks)
-    else:
-        chunks = split_text(
-            text=doc["text"],
-            source=doc["source"],
-            chunk_size=500,
-        )
+    # # ==========================
+    # # 如果是 PDF：按页切分
+    # # ==========================
+    # if doc["metadata"]["file_type"] == "pdf":
+    #     chunks = []
+
+    #     for page_item in doc["pages"]:
+    #         page_chunks = split_text(
+    #             text=page_item["text"],
+    #             source=doc["source"],
+    #             chunk_size=500,
+    #             page=page_item["page"]
+    #         )
+    #         chunks.extend(page_chunks)
+
+    # # ==========================
+    # # 如果是 TXT / MD：直接按全文切分
+    # # ==========================
+    # else:
+    #     # print(f"doc['text'] 类型: {type(doc['text'])}")
+    #     chunks = split_text(
+    #         text=doc["text"],
+    #         source=doc["source"],
+    #         chunk_size=1000,
+    #         page=None
+    #     )
+
 
     # 初始化 embedding
     embedder = EmbeddingClient(model_name = "sentence-transformers/all-MiniLM-L6-v2")
 
-    # 提取文本
-    texts = [chunk["text"] for chunk in chunks]
+    # #提取文本
+    # texts = [chunk["text"] for chunk in chunks]
 
-    # 文档 embedding
-    embeddings = embedder.embed_texts(texts)
+    # #文档 embedding
+    # embeddings = embedder.embed_texts(texts)
 
     # 初始化向量库
+    # vector_store = ChromaVectorStore(
+    #     persist_dir=str(ROOT_DIR / "chroma_db"),
+    #     collection_name="documents",
+    # )
+
+
     vector_store = ChromaVectorStore(
-        persist_dir=str(ROOT_DIR / "chroma_db"),
-        collection_name="documents",
+        persist_dir=r"D:\SWL_chroma_db\hotpot_supported_sentences",
+        collection_name="hotpot_supported_sentences"
     )
 
-    # 写入向量库
-    vector_store.add_chunks(chunks, embeddings)
+    # # 写入向量库
+    # vector_store.add_chunks(chunks, embeddings)
 
     # 查询文本
-    query = "What methods does the article use to solve the problem?"
+    query = "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?"
 
     # query embedding
     query_embedding = embedder.embed_query(query)
@@ -203,7 +220,7 @@ if __name__ == "__main__":
     # 检索
     results = vector_store.search(
         query_embedding=query_embedding,
-        top_k=3,
+        top_k=20,
     )
 
     # 输出结果

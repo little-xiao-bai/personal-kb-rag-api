@@ -1,0 +1,5 @@
+Bambolino's
+
+Bambolino's is an Italian American restaurant in Houston, Texas.
+
+The original Bambolino's Inc. restaurant chain was established by Ninfa Laurenzo and her family, who had established the Ninfa's restaurant chain.

@@ -1,0 +1,5 @@
+Deep-fried peanuts
+
+Deep Fried Peanuts are a snack food created by deep frying peanuts in an oil.
+
+The resulting product is a snack food that can be eaten in its entirety, both shell and nut.

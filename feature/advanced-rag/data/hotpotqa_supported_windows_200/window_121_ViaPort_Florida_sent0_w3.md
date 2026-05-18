@@ -1,0 +1,5 @@
+ViaPort Florida
+
+ViaPort Florida (formerly known as Lake Square Mall) is an enclosed shopping mall in Leesburg, Florida.
+
+Opened on September 24, 1980, it is managed by Lake Square Mall Realty Management and Via Properties.

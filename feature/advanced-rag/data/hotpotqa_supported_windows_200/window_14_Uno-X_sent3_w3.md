@@ -1,0 +1,7 @@
+Uno-X
+
+The chain was originally created as a low cost chain in Denmark in the late 1950s.
+
+The rights to use the name in Sweden were sold to Britain's Burmah Oil.
+
+In 1991 Norsk Hydro acquired the 330 outlets of the Danish operation and five years later it bought the Swedish Uno-X chain from Burmah.

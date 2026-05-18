@@ -1,0 +1,3 @@
+The Assault on Truth
+
+The Assault on Truth: Freud's Suppression of the Seduction Theory is a book by Jeffrey Moussaieff Masson, in which the author argues that Sigmund Freud deliberately suppressed his early hypothesis, known as the seduction theory, that hysteria is caused by sexual abuse during infancy, because he refused to believe that children are the victims of sexual violence and abuse within their own families.

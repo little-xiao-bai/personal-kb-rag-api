@@ -1,0 +1,7 @@
+Basal angiosperms
+
+In particular, the most basal angiosperms were called the ANITA grade which is made up of "Amborella" (a single species of shrub from New Caledonia), Nymphaeales (water lilies, together with some other aquatic plants) and Austrobaileyales (woody aromatic plants including star anise).
+
+ANITA stands for "Amborella", Nymphaeales and Illiciales, Trimeniaceae-"Austrobaileya".
+
+Some authors have shortened this to ANA-grade for the three orders, Amborellales, Nymphaeales, and Austrobaileyales, as the order Illiciales was reduced to the family Illiciaceae and placed, along with the family Trimeniaceae, within the Austrobaileyales.

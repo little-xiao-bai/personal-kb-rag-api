@@ -1,0 +1,3 @@
+Mehrdad Raissi Ardali
+
+He has also provided Persian voices for several animation characters, including famous characters such as Donkey in "Shrek", Marty in "Madagascar", "" and "", Buck in "", Bolt in "Bolt", Carl Fredricksen in "Up", Flynn Rider in "Tangled", The Once-ler in "The Lorax", RJ in "Over the Hedge", Francesco Bernoulli in "Cars 2", Mr. Ping in "Kung fu Panda", Ramon in "Happy Feet 2", The Man in the Yellow Hat in "Curious George", Raoul in "A Monster in Paris", Kevin in "", Barry in "Bee Movie", Bunnymund in "Rise of the Guardians", Guy in "The Croods" and Kristoff in "Frozen (2013 film)".

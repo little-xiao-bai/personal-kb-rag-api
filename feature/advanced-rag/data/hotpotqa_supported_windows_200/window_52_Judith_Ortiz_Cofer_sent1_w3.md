@@ -1,0 +1,7 @@
+Judith Ortiz Cofer
+
+Judith Ortiz Cofer (February 24, 1952 – December 30, 2016) was a Puerto Rican American author.
+
+Her critically acclaimed and award-winning work spans a range of literary genres including poetry, short stories, autobiography, essays, and young-adult fiction.
+
+Ortiz Cofer was the Emeritus Regents' and Franklin Professor of English and Creative Writing at the University of Georgia, where she taught undergraduate and graduate creative writing workshops for 26 years.

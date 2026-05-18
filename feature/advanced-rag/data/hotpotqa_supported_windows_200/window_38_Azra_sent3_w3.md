@@ -1,0 +1,7 @@
+Azra
+
+The other two members of the original line-up were Mišo Hrnjak (bass) and Boris Leiner (drums).
+
+The band is named after a verse from "Der Asra" by Heinrich Heine.
+
+They are considered to be one of the most influential bands from the former Yugoslav new wave rock era and the Yugoslav rock scene in general.

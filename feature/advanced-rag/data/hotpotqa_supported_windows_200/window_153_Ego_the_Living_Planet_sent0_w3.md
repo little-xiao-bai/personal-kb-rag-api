@@ -1,0 +1,5 @@
+Ego the Living Planet
+
+Ego the Living Planet is a fictional character appearing in American comic books published by Marvel Comics.
+
+The character first appeared in "Thor" #132 (September 1966) and was created by writer Stan Lee and artist Jack Kirby.

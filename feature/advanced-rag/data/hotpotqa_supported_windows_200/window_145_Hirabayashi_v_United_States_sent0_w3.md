@@ -1,0 +1,5 @@
+Hirabayashi v. United States
+
+Hirabayashi v. United States, 320 U.S. 81 (1943), was a case in which the United States Supreme Court held that the application of curfews against members of a minority group were constitutional when the nation was at war with the country from which that group originated.
+
+The case arose out of the issuance of Executive Order 9066 following the December 1941 attack on Pearl Harbor and the U.S. entry into World War II.

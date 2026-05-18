@@ -1,0 +1,5 @@
+The Great Gilly Hopkins
+
+It was published by Crowell in 1978 and it won the U.S. National Book Award next year.
+
+In 2012 it was ranked number 63 among all-time children's novels in a survey published by "School Library Journal" – the third of three books by Paterson in the top 100.

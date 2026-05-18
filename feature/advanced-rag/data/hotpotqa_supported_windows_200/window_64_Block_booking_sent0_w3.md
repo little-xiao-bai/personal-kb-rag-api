@@ -1,0 +1,5 @@
+Block booking
+
+Block booking is a system of selling multiple films to a theater as a unit.
+
+Block booking was the prevailing practice among Hollywood's major studios from the turn of the 1930s until it was outlawed by the U.S. Supreme Court's decision in "United States v. Paramount Pictures, Inc." (1948).

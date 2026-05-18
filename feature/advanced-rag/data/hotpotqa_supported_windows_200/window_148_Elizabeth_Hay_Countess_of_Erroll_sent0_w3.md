@@ -1,0 +1,5 @@
+Elizabeth Hay, Countess of Erroll
+
+Elizabeth Hay, Countess of Erroll (17 January 1801 – 16 January 1856; born Elizabeth FitzClarence) was an illegitimate daughter of King William IV of the United Kingdom and Dorothea Jordan.
+
+She married William Hay, 18th Earl of Erroll, and became Countess of Erroll on 4 December 1820 at age 19.

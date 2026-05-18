@@ -1,0 +1,3 @@
+Northumbrian dialect
+
+Together with Mercian, Kentish and West Saxon, it forms one of the sub-categories of Old English devised and employed by modern scholars.

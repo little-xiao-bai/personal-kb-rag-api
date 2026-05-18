@@ -1,0 +1,7 @@
+Chagrin Documentary Film Festival
+
+The festival debuted in 2010, with 93 films showing in venues throughout the village.
+
+That year, the festival had an attendance of 1,800.
+
+By the 2015 festival, that number had grown to almost 7,000, while the number of films shrank to less than 70.

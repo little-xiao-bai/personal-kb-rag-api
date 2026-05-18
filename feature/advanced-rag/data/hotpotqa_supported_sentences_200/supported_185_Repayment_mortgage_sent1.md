@@ -1,0 +1,3 @@
+Repayment mortgage
+
+This contrasts with an interest-only mortgage (such as an endowment mortgage or some types of balloon payment mortgage) where monthly repayments are for interest, and the borrower must repay the full loan at term in a lump sum.

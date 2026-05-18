@@ -1,0 +1,7 @@
+Palaivana Solai (1981 film)
+
+The film features Suhasini Maniratnam, Chandrasekhar, Janagaraj, Rajeev, Kailash Nath and Thyagu in lead roles.
+
+The film, produced by R. Vadivel, had musical score by Sankar Ganesh and was released on 17 October 1981.
+
+The film was declared blockbuster at the box-office and the film has grown a strong cult film.

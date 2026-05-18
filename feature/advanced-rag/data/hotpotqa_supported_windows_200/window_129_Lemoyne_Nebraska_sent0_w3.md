@@ -1,0 +1,5 @@
+Lemoyne, Nebraska
+
+Lemoyne is an unincorporated community and census-designated place in northern Keith County, Nebraska, United States.
+
+It lies along Nebraska Highway 92 on the northern shore of Lake C.W. McConaughy, north of the city of Ogallala, the county seat of Keith County.

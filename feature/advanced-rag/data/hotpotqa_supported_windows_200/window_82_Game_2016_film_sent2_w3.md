@@ -1,0 +1,7 @@
+Game (2016 film)
+
+This movie is an unofficial remake of the 2012 Spanish thriller El Cuerpo (Spanish title) also known as "The Body", and features Arjun Sarja, Shaam and Manisha Koirala in the lead roles.
+
+With music composed by Ilayaraaja, the film was simultaneously shot in Kannada and Tamil; the former released first on February 26, 2016 while the later released on July 1, 2016.
+
+The film was dubbed and released in Telugu as "Notuku Potu" in 2017.

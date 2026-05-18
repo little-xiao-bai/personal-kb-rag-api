@@ -1,0 +1,7 @@
+Harsh Times
+
+The film stars Christian Bale and Freddy Rodriguez, and was written and directed by David Ayer, who wrote the script for the Academy Award-winning 2001 film "Training Day".
+
+The film was distributed by Metro-Goldwyn-Mayer and Bauer Martinez Entertainment.
+
+Ayer says that the film's characters are largely based on the people he knew when he lived in South Central.

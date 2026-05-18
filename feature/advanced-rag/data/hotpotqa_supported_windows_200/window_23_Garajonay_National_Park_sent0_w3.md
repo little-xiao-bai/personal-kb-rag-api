@@ -1,0 +1,5 @@
+Garajonay National Park
+
+Garajonay National Park (Spanish: "Parque nacional de Garajonay" , ] ) is located in the center and north of the island of La Gomera, one of the Canary Islands (Spain).
+
+It was declared a national park in 1981 and a World Heritage Site by UNESCO in 1986.

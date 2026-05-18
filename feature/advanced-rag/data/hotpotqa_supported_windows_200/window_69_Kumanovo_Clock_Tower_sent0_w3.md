@@ -1,0 +1,5 @@
+Kumanovo Clock Tower
+
+Kumanovo Clock Tower (Macedonian: Саат Кула Куманово ) was a clock tower in Kumanovo, Ottoman Empire (today Republic of Macedonia).
+
+The tower is believed to have existed since the second half of the 18th century but there are now known historical facts.

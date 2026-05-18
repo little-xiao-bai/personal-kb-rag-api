@@ -1,0 +1,3 @@
+Malmö Harbour Heliport
+
+Before the Öresund Bridge was opened in 2000 and before Sweden entered the Schengen Area in 2001, Malmö Harbour Heliport and port had passport and customs check, and there were helicopter and speedboat connections directly to Copenhagen Airport transfer area.

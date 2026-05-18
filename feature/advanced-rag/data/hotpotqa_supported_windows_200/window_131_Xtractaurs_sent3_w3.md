@@ -1,0 +1,7 @@
+Xtractaurs
+
+It involves taking a dinosaur (both well-known and lesser-known dinosaurs) and extracting "DNA" samples from the dinosaur and analyzing it on your computer, similar in a way to the book and film Jurassic Park.
+
+If you own multiple dinosaurs and have extracted samples from all of them, you can create a genetically engineered hybrid on the computer to battle the "Megavores", ancient reawakened dinosaurs that share qualities with your dinosaur.
+
+Each dinosaur you purchase has a special ability, and combining them makes a fierce fighting animal (your first dinosaur, "Tyrannosaurus Rex", has the Chomp ability).

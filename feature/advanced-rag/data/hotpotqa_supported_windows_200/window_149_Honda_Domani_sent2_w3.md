@@ -1,0 +1,5 @@
+Honda Domani
+
+It was introduced in November 1992, replacing the Concerto in Honda's lineup, although that model lasted until 1995 in Europe.
+
+The Domani was another example of Honda taking one product and selling multiple versions at different dealership sales channels in Japan, called "Honda Clio" for the more upscale Domani, Honda Integra SJ at "Honda Verno" locations from 1996-2000, while "Honda Primo" sold the mechanically identical but aesthetically different "Japanese: ", along with the Civic 3- and 5-door hatchbacks.

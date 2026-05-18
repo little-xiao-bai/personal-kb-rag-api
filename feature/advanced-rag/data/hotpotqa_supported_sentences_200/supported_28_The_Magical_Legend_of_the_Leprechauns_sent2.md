@@ -1,0 +1,3 @@
+The Magical Legend of the Leprechauns
+
+The film contains two main stories that eventually intertwine: the first being the story of an American businessman who visits Ireland and encounters magical leprechauns and the second, a story of a pair of star-crossed lovers who happen to be a fairy and a leprechaun, belonging to opposing sides of a magical war.

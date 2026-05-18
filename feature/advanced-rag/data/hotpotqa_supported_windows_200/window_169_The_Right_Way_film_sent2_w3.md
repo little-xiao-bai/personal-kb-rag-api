@@ -1,0 +1,5 @@
+The Right Way (film)
+
+It tells the story of Amy and David two young people from suburbia, whose lives are going nowhere, when they meet their relationship alters their lives forever and sends them surreal and existential crisis.
+
+"The Right Way" was an Official Selection of the 2004 Venice Film Festival and had a limited theatrical release in the United States in December 2005, it was released to video on demand services in 2010.

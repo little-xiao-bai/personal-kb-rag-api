@@ -1,0 +1,3 @@
+Music Maker (label)
+
+Music Maker Relief Foundation was founded in 1994 by Tim and Denise Duffy to "help the true pioneers and forgotten heroes of Southern music gain recognition and meet their day-to-day needs.

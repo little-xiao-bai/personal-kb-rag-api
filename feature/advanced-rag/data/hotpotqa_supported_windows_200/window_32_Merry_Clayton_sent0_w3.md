@@ -1,0 +1,5 @@
+Merry Clayton
+
+Merry Clayton (born December 25, 1948) is an American soul and gospel singer and an actress.
+
+She provided a number of backing vocal tracks for major performing artists in the 1960s, most notably in her duet with Mick Jagger on the Rolling Stones song "Gimme Shelter."

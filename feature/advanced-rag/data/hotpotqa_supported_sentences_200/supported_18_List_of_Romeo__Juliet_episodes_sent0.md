@@ -1,0 +1,3 @@
+List of Romeo × Juliet episodes
+
+"Romeo × Juliet" (ロミオ×ジュリエット , Romio to Jurietto ) is a 24-episode anime television adaptation of "Romeo and Juliet", a 16th-century tragedy originally written by William Shakespeare.

@@ -1,0 +1,5 @@
+Kalanta Xristougenon
+
+This carol is commonly abbreviated as "Kalanta" or "Kalanda", some other common titles for this Christmas carol are Kalin Iméran and Christos Genate.
+
+This carol is commonly sung around Christmas and accompanied by light percussion instruments such as the Triangle (musical instrument) and Guitar.

@@ -1,0 +1,3 @@
+United States presidential election, 2012
+
+The Democratic nominee, incumbent President Barack Obama, and his running mate, Vice President Joe Biden, were elected to a second term, defeating the Republican nominee, former Governor of Massachusetts Mitt Romney and his running mate, Representative and future House Speaker Paul Ryan of Wisconsin.

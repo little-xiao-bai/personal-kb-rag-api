@@ -1,0 +1,5 @@
+Scottish Borders
+
+The Scottish Borders (Scots: "The Mairches" , "The Marches") is one of 32 council areas of Scotland.
+
+It borders the City of Edinburgh, Dumfries and Galloway, East Lothian, Midlothian, South Lanarkshire, West Lothian and, to the south and east, Northumberland in England.

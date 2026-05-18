@@ -1,0 +1,3 @@
+Proceed, Moon
+
+The work was Wagner's third commission from the Chicago Symphony Orchestra, which first performed the piece under the conductor Susanna Mälkki at the Symphony Center, Chicago, on June 15, 2017.

@@ -1,0 +1,5 @@
+Taj Matthews
+
+Taj Matthews (born March 24, 1976 in San Antonio, Texas) is an American journalist, entrepreneur, author of "Grandpa was a Preacher: A Letter to my Grandson".
+
+The book is the autobiography of his grandfather civil rights icon Rev. Claude Black Jr., who describes life as a minister, civil rights leader and politician.

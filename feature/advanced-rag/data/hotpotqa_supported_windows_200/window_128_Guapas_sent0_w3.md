@@ -1,0 +1,5 @@
+Guapas
+
+Guapas (Spanish: "Brave ones" ) is a 2014 Argentine telenovela.
+
+It is produced by Pol-ka, and aired by El Trece.

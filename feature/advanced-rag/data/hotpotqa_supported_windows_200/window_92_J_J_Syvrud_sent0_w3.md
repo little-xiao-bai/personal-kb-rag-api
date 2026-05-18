@@ -1,0 +1,5 @@
+J. J. Syvrud
+
+J. J. Syvrud (born May 10, 1977) is a former American football linebacker who played one season with the New York Jets of the National Football League.
+
+He was drafted by the New York Jets in the seventh round of the 1999 NFL Draft.

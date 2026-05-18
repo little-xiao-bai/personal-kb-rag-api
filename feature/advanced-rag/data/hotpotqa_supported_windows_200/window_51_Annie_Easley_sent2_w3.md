@@ -1,0 +1,5 @@
+Annie Easley
+
+She worked for the Lewis Research Center (now Glenn Research Center) of the National Aeronautics and Space Administration (NASA) and its predecessor, the National Advisory Committee for Aeronautics (NACA).
+
+She was a leading member of the team which developed software for the Centaur rocket stage and one of the first African-Americans to work as a computer scientist at NASA.

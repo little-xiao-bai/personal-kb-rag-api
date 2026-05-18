@@ -1,0 +1,5 @@
+Steve Malzberg
+
+Stephen D. Malzberg (born April 20, 1959) is an American television and radio host, syndicated columnist, and political commentator.
+
+He is the host of "The Steve Malzberg Show", a cable news and opinion show on Newsmax TV.

@@ -1,0 +1,5 @@
+John Crichton-Stuart, 5th Marquess of Bute
+
+John Crichton-Stuart, 5th Marquess of Bute (4 August 1907 – 14 August 1956) was the son of John Crichton-Stuart, 4th Marquess of Bute and Augusta Bellingham.
+
+On his father's side, the 5th Marquess was a direct male-line descendant of Robert II of Scotland through John Stewart, his illegitimate son by Moira Leitch.

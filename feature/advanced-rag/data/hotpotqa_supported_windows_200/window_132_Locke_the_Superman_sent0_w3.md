@@ -1,0 +1,5 @@
+Locke the Superman
+
+Locke the Superman (超人ロック , Chōjin Rokku ) is a manga series by Yuki Hijiri which was later adapted into a movie and three OVA releases.
+
+The movie was given an obscure video release in the United States by Celebrity Home Entertainment as "Locke the Superpower" which was rather heavily edited to 92 minutes, removing violence, nudity and any adult bits.

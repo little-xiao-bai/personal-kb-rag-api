@@ -1,0 +1,5 @@
+Defence Force Service Medal
+
+It is part of the suite of defence force service awards introduced in 1982, which also included the Reserve Force Decoration (RFD, for officers of the Australian Defence Force Reserves) and the Reserve Force Medal (RFM, for non-commissioned members of the Reserve forces).
+
+All three medals were replaced in 2002 with a single medal, the Defence Long Service Medal, which is now awarded to all permanent and reserve members irrespective of rank.

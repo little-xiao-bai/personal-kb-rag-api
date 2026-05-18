@@ -1,0 +1,5 @@
+Frostbite (Mead novel)
+
+It is the second novel in the #1 "New York Times" bestselling series, "Vampire Academy".
+
+"Frostbite" continues the story of the main character, Rose Hathaway including her bond with Princess Vasilisa "Lissa" Dragomir, her budding romance with her instructor Dimitri Belikov, and her education in becoming a Guardian.

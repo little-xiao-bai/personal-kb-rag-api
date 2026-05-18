@@ -1,0 +1,5 @@
+Truman Sports Complex
+
+The Harry S. Truman Sports Complex is a sports and entertainment facility located in Kansas City, Missouri.
+
+It is home to two major sports venues: Arrowhead Stadium—home of the National Football League's Kansas City Chiefs, and Kauffman Stadium—home of Major League Baseball's Kansas City Royals.

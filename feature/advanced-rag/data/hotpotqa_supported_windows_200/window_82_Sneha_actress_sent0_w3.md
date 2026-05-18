@@ -1,0 +1,5 @@
+Sneha (actress)
+
+Suhasini Rajaram Naidu, popularly known by her stage name Sneha, is an Indian film actress, who works in the South Indian film industry.
+
+She debuted in the Malayalam film "Ingane Oru Nilapakshi" (2000), directed by Anil – Babu and was later signed for the Tamil film "Virumbugiren", though it was only released two years later.

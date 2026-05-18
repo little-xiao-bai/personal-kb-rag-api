@@ -1,0 +1,3 @@
+Bandits (2001 film)
+
+Thornton and Blanchett's performances earned praise, as each was nominated for Best Actor and Best Actress Golden Globe Awards for their performances in this film, while Blanchett was nominated for Best Supporting Actress at the Screen Actors Guild Awards.

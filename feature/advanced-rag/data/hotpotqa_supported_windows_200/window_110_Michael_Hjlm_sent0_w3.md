@@ -1,0 +1,5 @@
+Michael Hjälm
+
+Michael Peter Hjälm (born March 23, 1963) is an ice hockey player who played for the Swedish national team.
+
+He won a bronze medal at the 1984 and 1988 Winter Olympics.

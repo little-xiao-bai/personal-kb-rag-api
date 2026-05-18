@@ -1,0 +1,5 @@
+Judith Ortiz Cofer
+
+Ortiz Cofer was the Emeritus Regents' and Franklin Professor of English and Creative Writing at the University of Georgia, where she taught undergraduate and graduate creative writing workshops for 26 years.
+
+In 2010, Ortiz Cofer was inducted into the Georgia Writers Hall of Fame, and in 2013, she won the University's 2014 Southeastern Conference Faculty Achievement Award.

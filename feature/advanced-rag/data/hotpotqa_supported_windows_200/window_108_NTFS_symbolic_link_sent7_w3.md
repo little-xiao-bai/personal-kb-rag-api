@@ -1,0 +1,5 @@
+NTFS symbolic link
+
+Third-party filter drivers such as Masatoshi Kimura's opensource codice_1 driver could however be installed to make the feature available in user mode as well.
+
+The ntfs.sys released with Windows Vista made the functionality available to user mode applications by default.

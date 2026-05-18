@@ -1,0 +1,5 @@
+The Simpsons (season 23)
+
+The showrunner for the season was Al Jean, with three episodes ran with Matt Selman, one of those he also wrote himself.
+
+The show's 500th episode, "At Long Last Leave", aired February 19, 2012.

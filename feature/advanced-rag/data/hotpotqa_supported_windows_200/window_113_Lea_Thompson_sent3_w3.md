@@ -1,0 +1,5 @@
+Lea Thompson
+
+Other films for which she is known include "All the Right Moves" (1983), "Red Dawn" (1984), "Howard the Duck" (1986) "Some Kind of Wonderful" (1987), and "The Beverly Hillbillies" (1993).
+
+From 2011-2017, she co-starred as Kathryn Kennish in the Freeform (formerly ABC Family) series "Switched at Birth".

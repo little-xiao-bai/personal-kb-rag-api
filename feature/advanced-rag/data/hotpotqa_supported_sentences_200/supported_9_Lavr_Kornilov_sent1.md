@@ -1,0 +1,3 @@
+Lavr Kornilov
+
+He is today best remembered for the Kornilov Affair, an unsuccessful endeavor in August/September 1917 that purported to strengthen Alexander Kerensky's Provisional Government, but which led to Kerensky eventually having Kornilov arrested and charged with attempting a coup d'état, and ultimately undermined the rule of Kerensky; strengthening the claims and power of the soviets, and the Bolshevik party.

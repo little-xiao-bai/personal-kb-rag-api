@@ -1,0 +1,5 @@
+V.L. v. E.L.
+
+V.L. petitioned the United States Supreme Court to stay the ruling during her appeal and allow her to see her children.
+
+On December 14, 2015, the Supreme Court stayed the ruling pending their action on a petition for a writ of certiorari filed by V.L. On March 7, 2016, the Supreme Court of the United States reversed the decision of the Alabama Supreme Court by per curiam summary disposition.

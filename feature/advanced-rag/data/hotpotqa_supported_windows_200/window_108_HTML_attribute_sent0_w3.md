@@ -1,0 +1,5 @@
+HTML attribute
+
+An HTML attribute is a modifier of an "HTML element type".
+
+An attribute either modifies the default functionality of an element type or provides functionality to certain element types unable to function correctly without them.

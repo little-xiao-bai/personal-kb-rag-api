@@ -1,0 +1,7 @@
+Carl B. Stokes United States Courthouse
+
+It is also known as the Carl B. Stokes Federal Court House Tower, Federal Court House Tower, and the Stokes Tower.
+
+The 23-story building is 430 ft tall and is located at the corner of Huron Road and Superior Avenue.
+
+It is currently the fourth tallest United States courthouse in the country.

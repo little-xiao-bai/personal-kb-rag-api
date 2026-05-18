@@ -1,0 +1,7 @@
+Roy Chadwick
+
+Born at Marsh Hall Farm, Farnworth, the son of the mechanical engineer Charles Chadwick, he was the chief designer for Avro and was responsible for practically all of their aeroplane designs.
+
+He is famous in particular for designing the Avro Lancaster bomber, its follow-up Avro Lincoln and preliminary designs of the Avro Vulcan V bomber.
+
+He also converted the Lincoln into the much-used Shackleton.

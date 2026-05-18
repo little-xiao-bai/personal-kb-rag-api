@@ -1,0 +1,3 @@
+2010 Northern Hemisphere summer heat waves
+
+The heatwaves began on April 2010, when strong anticyclones began to develop, over most of the affected regions, in the Northern Hemisphere.

@@ -1,0 +1,3 @@
+Karaboro languages
+
+They belong to the Senufo subfamily, but are separated from other Senufo languages by a small band of unrelated languages.

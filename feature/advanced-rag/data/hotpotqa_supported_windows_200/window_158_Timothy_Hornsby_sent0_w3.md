@@ -1,0 +1,5 @@
+Timothy Hornsby
+
+Timothy Richard Hornsby CBE (born 22 September 1940) is British.
+
+He is Chairman of the Horniman Museum 2004–present.

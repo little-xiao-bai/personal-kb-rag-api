@@ -1,0 +1,3 @@
+September 16 military parade
+
+It is also attended by members of the Cabinet of Mexico, the Congress of the Union, civil service employees, the Secretaries of National Defense and Navy, members of the Mexican Armed Forces and Federal Police, uniformed service veterans, the state diplomatic corps, delegations representing the religious sector, indigenous peoples, sports and the private sector, and the general public.

@@ -1,0 +1,3 @@
+Nidderdale Museum
+
+Exhibits focus on rural life and include such period room and business displays as a cobbler's workshop, schoolroom, Victorian parlour, general store, 1930s hairdresser's shop and a kitchen.

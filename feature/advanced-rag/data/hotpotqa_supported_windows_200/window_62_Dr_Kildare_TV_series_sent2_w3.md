@@ -1,0 +1,7 @@
+Dr. Kildare (TV series)
+
+Produced by MGM Television, it was based on fictional doctor characters originally created by author Max Brand in the 1930s and previously used by MGM in a popular film series and radio drama.
+
+The TV series quickly achieved success and made a star of Richard Chamberlain, who played the title role.
+
+"Dr. Kildare" (along with an ABC medical drama, "Ben Casey", which premiered at the same time) inspired or influenced many later TV shows dealing with the medical field.

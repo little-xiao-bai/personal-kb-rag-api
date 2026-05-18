@@ -1,0 +1,5 @@
+Soundings (Carter)
+
+The work was commissioned by the Chicago Symphony Orchestra for their final season with the conductor Daniel Barenboim as music director.
+
+It was first performed on October 6, 2005 at the Symphony Center, Chicago, by Barenboim and the Chicago Symphony Orchestra.

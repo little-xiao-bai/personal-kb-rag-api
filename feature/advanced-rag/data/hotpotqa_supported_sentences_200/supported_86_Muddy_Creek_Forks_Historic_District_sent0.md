@@ -1,0 +1,3 @@
+Muddy Creek Forks Historic District
+
+Muddy Creek Forks Historic District is a national historic district located at the Village of Muddy Creek Forks in East Hopewell, Fawn, and Lower Chanceford Townships in York County, Pennsylvania.

@@ -1,0 +1,5 @@
+Roy Chadwick
+
+Roy Chadwick, CBE, FRSA, FRAeS (30 April 1893 – 23 August 1947) was an aircraft design engineer for the Avro Company.
+
+Born at Marsh Hall Farm, Farnworth, the son of the mechanical engineer Charles Chadwick, he was the chief designer for Avro and was responsible for practically all of their aeroplane designs.

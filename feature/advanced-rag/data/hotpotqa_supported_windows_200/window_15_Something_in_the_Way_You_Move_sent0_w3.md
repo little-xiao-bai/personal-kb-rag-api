@@ -1,0 +1,5 @@
+Something in the Way You Move
+
+"Something in the Way You Move" is a song by English singer and songwriter Ellie Goulding from her third studio album, "Delirium" (2015).
+
+The song was serviced to contemporary hit radio in the United States on 19 January 2016 as the album's second single in North America, and third overall.

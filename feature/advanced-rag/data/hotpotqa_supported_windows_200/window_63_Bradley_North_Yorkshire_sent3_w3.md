@@ -1,0 +1,7 @@
+Bradley, North Yorkshire
+
+It is approximately 1/2 mi from the A629 and 2 mi from the nearby town of Skipton.
+
+Bradley is divided into two parts; High Bradley and Low Bradley, known collectively as Bradleys Both although traditionally the village used to be named Bradley Ambo.
+
+While physically in North Yorkshire and under the council of North Yorkshire, it has a West Yorkshire postal town and dialling code.

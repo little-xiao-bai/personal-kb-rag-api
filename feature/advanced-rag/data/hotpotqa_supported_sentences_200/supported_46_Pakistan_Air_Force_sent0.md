@@ -1,0 +1,3 @@
+Pakistan Air Force
+
+The Pakistan Air Force (PAF) (Urdu: ‎ —"Pāk Fizāʾiyah" , , reporting name: PAF) is the aerial warfare branch of the Pakistan Armed Forces, tasked primarily with the aerial defence of Pakistan, with a secondary role of providing air support to the Pakistan Army and the Pakistan Navy.

@@ -1,0 +1,7 @@
+Shayne Workman
+
+It was later added to his anthology, "The Spirit Realm: An Anthology of Fables From The Spirit Realm".
+
+He has also penned, The Diary Of A Vagabond King, an inspiring true account of his personal experiences over the course of two years, where he was faced with impossible odds, and tragic losses.
+
+The royalties from the sale of the book will be going towards the creation and operation of the Blue Purity Fund created for aiding organizations with programs aimed at getting the nations homeless off the streets and back into being full members of society.

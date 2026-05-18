@@ -1,0 +1,3 @@
+Man from 1997
+
+Man From 1997 is a time travel episode of the 1956–57 anthology television series "Conflict" directed by Roy del Ruth, produced by Roy Huggins, written by James Gunn from a story by Alfred Bester, and starring Jacques Sernas, Charles Ruggles, Gloria Talbott and James Garner.

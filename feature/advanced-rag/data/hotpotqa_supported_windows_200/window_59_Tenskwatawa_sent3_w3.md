@@ -1,0 +1,5 @@
+Tenskwatawa
+
+In his early years Tenskwatawa was given the name Lalawethika ("He Makes a Loud Noise" or "The Noise Maker"), but he changed it around 1805 and transformed himself from a hapless, alcoholic youth into an influential spiritual leader.
+
+Tenskwatawa denounced the Americans, calling them the offspring of the Evil Spirit, and lead a purification movement that promoted unity among the American Indians, rejected acculturation to the American way of life, and encouraged his followers to pursue traditional ways.

@@ -1,0 +1,3 @@
+Christianity in Madhya Pradesh
+
+The Roman Catholic Archdiocese of Bhopal, the Roman Catholic Diocese of Gwalior, the Roman Catholic Diocese of Indore, the Roman Catholic Diocese of Jabalpur, the Roman Catholic Diocese of Jhabua, the Roman Catholic Diocese of Khandwa, the Syro-Malabar Catholic Diocese of Sagar the Syro-Malabar Catholic Diocese of Satna and the Syro-Malabar Catholic Diocese of Ujjain have their seat in the state.

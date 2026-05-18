@@ -1,0 +1,3 @@
+Albanian University in Berat
+
+A year later, this new institution offering undergraduate degrees in study programs: Preschool Teacher Education, Primary Education Teacher, English Language, Nursing, Engineering Computer and Information Technology, thus finalizing the 2010-2011 academic year with the opening of two new faculties: Faculty of Medical Sciences and the Faculty of Architecture and Inxhinierive.

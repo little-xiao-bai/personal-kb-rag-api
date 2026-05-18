@@ -1,0 +1,5 @@
+Wilton, Maine
+
+The population was 4,116 at the 2010 census.
+
+Situated beside Wilson Pond, the former mill town is today primarily a recreation area.

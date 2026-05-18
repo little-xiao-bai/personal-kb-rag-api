@@ -1,0 +1,7 @@
+Bolton
+
+Bolton ( or locally ] ) is a town in Greater Manchester in North West England.
+
+A former mill town, Bolton has been a production centre for textiles since Flemish weavers settled in the area in the 14th century, introducing a wool and cotton-weaving tradition.
+
+The urbanisation and development of the town largely coincided with the introduction of textile manufacture during the Industrial Revolution.

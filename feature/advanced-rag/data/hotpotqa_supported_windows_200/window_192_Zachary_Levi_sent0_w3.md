@@ -1,0 +1,5 @@
+Zachary Levi
+
+Zachary Levi Pugh ( ; born September 29, 1980) is an American actor and singer.
+
+He is best known for playing Chuck Bartowski in the series "Chuck".

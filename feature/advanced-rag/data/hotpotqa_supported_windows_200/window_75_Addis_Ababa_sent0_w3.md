@@ -1,0 +1,5 @@
+Addis Ababa
+
+Addis Ababa (Amharic: አዲስ አበባ "Addis Abäba " ] , "new flower"; Oromo: "Finfinne" , ] "Natural Spring(s)") or Addis Abeba (the spelling used by the official Ethiopian Mapping Authority), is the capital and largest city of Ethiopia.
+
+It has a population of 3,384,569 according to the 2007 population census, with annual growth rate of 3.8%.

@@ -1,0 +1,5 @@
+Morbo (band)
+
+Despite the acclaimed success of 1997's Moenia and 1998's remix album, in itself a risky and previously-unheard of novelty in the Mexican music industry, and due to disagreements between Lozano, Jorge Soto and Alejandro 'Midi' Ortega as to the creative route Moenia should take, Lozano decided to leave Moenia as vocalist with original founding member Alfonso Pichardo returning as lead singer.
+
+Lozano then formed the perhaps less commercial, still synth-oriented, but more guitar-centered Morbo, whose musical vision first came to fruition in 2001's eponymous "Morbo".

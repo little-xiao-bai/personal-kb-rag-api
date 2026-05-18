@@ -1,0 +1,5 @@
+David T. Beito
+
+David T. Beito (born 1956) is a historian and professor of history at the University of Alabama.
+
+He is the author of "Taxpayers in Revolt: Tax Resistance during the Great Depression" (1989); "From Mutual Aid to the Welfare State: Fraternal Societies and Social Services, 1890–1967" (2000); "The Voluntary City: Choice, Community, and Civil Society" (2002); and "Black Maverick: T. R. M. Howard's Fight for Civil Rights and Economic Power" (2009) which was co-authored by Professor Linda Royster Beito of Stillman College).

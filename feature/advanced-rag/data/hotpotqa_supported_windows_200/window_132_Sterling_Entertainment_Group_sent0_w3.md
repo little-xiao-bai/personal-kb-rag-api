@@ -1,0 +1,5 @@
+Sterling Entertainment Group
+
+Sterling Entertainment Group (formerly United American Video Corporation, and more commonly known as United American Video, UAV Corporation or UAV Entertainment), was an entertainment company founded in 1984 as a small local company originally located in Nashville, Tennessee, then Charlotte, North Carolina starting in 1991.
+
+Its headquarters would later relocate to Fort Mill, South Carolina in 1996.

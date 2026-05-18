@@ -1,0 +1,7 @@
+Jing Yanguang
+
+Jing Yanguang (景延廣) (892-January 28, 947), courtesy name Hangchuan (航川), was a general and official of the Chinese Five Dynasties and Ten Kingdoms Period state Later Jin.
+
+He was instrumental in the enthronement of Later Jin's second emperor Shi Chonggui, and therefore became a powerful chancellor early in Shi Chonggui's reign.
+
+Under his advocacy, Shi Chonggui turned away from the peaceful, submissive relationship that Later Jin had with its northern neighbor Liao (whose Emperor Taizong's support had been essential in the establishment of Later Jin by Shi Chonggui's uncle and predecessor Shi Jingtang), and became confrontational against Liao.

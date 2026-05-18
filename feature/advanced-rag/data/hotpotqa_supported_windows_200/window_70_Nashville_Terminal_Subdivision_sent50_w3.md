@@ -1,0 +1,7 @@
+Nashville Terminal Subdivision
+
+There is a crossover from 99 to 12, also a crossover from 12 to 3.
+
+About 2/10ths of a mile down the 99 merges into the 12 track reducing the tracks back to the regular double.
+
+About 4/10ths of a mile down the line from Fogg St, 000187.4, Oak St, is a crossover track from #2 to #1 (the track names are no longer 3 and 12, but are back to regular names).

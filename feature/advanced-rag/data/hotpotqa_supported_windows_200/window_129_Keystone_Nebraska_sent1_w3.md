@@ -1,0 +1,7 @@
+Keystone, Nebraska
+
+Keystone is an unincorporated community and census-designated place in central Keith County, Nebraska, United States.
+
+It lies along local roads near the North Platte River, northeast of the city of Ogallala, the county seat of Keith County.
+
+Its elevation is 3,100 feet (945 m).

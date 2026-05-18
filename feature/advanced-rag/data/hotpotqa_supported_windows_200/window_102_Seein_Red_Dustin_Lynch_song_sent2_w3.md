@@ -1,0 +1,5 @@
+Seein' Red (Dustin Lynch song)
+
+It was released to country radio on July 11, 2016 as the lead single from his third studio album, "Current Mood".
+
+The song was written by Kurt Allison, Steve Bogard, Tully Kennedy and Jason Sever.

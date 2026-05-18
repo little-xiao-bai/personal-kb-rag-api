@@ -1,0 +1,5 @@
+List of islands of Tasmania
+
+This is a list of islands of Tasmania, the smallest and southernmost state of Australia.
+
+The Tasmanian mainland itself is an island, with an area of 64,103 km2 - 94.1% of the total land area of the state of Tasmania.

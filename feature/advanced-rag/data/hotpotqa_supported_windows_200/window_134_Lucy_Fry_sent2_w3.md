@@ -1,0 +1,5 @@
+Lucy Fry
+
+She is known for portraying Zoey in "Lightning Point", Lyla in "", and Vasilisa Dragomir in the film "Vampire Academy".
+
+Fry was also cast in Hulu's eight part miniseries "11.22.63" as Marina Oswald, wife of Lee Harvey Oswald, and played the lead in the 2016 Australian horror television series "Wolf Creek".

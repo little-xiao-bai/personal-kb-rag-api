@@ -1,0 +1,5 @@
+Jay Leiderman
+
+The Atlantic" Magazine called Leiderman the "Hacktivist’s Advocate" for his work defending hacker-activists accused of computer crimes, or so-called (“Hacktivism”) especially people associated with Anonymous.
+
+Leiderman "keeps an encrypted chat app open at all times so he can dispense ad hoc pro bono legal advice to members of Anonymous" Buzzfeed called Leiderman "The Maserati-Driving Deadhead Lawyer Who Stands Between Hackers And Prison" and stated he was "A medical marijuana and criminal defense lawyer from Southern California [who] has made himself into the country’s leading defender of hackers."

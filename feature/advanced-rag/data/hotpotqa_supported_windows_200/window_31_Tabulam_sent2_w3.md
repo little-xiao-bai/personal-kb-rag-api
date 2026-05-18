@@ -1,0 +1,7 @@
+Tabulam
+
+Tabulam is located on the Bruxner Highway (Highway 44) between Tenterfield and Casino and on the Clarence River.
+
+According to the 2006 Census, there were 573 people living in Tabulam.
+
+Tabulam is locally administered by Kyogle Council.

@@ -1,0 +1,7 @@
+Race of a Thousand Years
+
+The 2000 Race of a Thousand Years was an endurance race and the final round of the 2000 American Le Mans Series.
+
+It was run on the Adelaide Street Circuit in Australia on New Year's Eve, 31 December 2000.
+
+The race was run on the full 3.780 km (2.349 mi) Grand Prix circuit used by Formula One for the Australian Grand Prix between 1985-1995, rather than the shorter 3.219 km (2.012 mi) V8 Supercars version of the circuit used since 1999.

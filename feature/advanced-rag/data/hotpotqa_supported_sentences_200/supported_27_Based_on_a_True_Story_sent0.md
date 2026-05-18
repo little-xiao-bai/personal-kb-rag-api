@@ -1,0 +1,3 @@
+Based on a True Story...
+
+Based on a True Story… is the eighth studio album by American country music artist Blake Shelton.

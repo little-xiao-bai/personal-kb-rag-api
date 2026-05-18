@@ -1,0 +1,5 @@
+Glow switch starter
+
+The operating principle is simple, when current is applied, the gas inside ionizes and heats a bimetallic strip which in turn bends toward the stationary electrode thus shorting the starter between the electrodes of the fluorescent lamp After a second the starter's bimetallic strip will cool and open the circuit between the electrodes and the process repeats until the lamp has lit.
+
+One disadvantage of glow switch starters is that when the lamp is at the end of its life it will continuously blink on and off until the glow switch starter wears out or an electrode on the fluorescent lamp burns out.

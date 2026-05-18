@@ -1,0 +1,3 @@
+Paul Joseph Revere
+
+In September 1862, Revere participated in the Battle of Antietam, in which he suffered a 2nd wound and Edward Hutchinson Revere (another of Paul Revere's grandsons) was killed.

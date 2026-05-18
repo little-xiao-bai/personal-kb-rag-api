@@ -1,0 +1,3 @@
+John Wellington Ennis
+
+His latest film is "Pay 2 Play: Democracy's High Stakes", a feature-length documentary about the corrupting influence of money in our political system, featuring Robert Reich, Lawrence Lessig, John Nichols, Marianne Williamson and more...

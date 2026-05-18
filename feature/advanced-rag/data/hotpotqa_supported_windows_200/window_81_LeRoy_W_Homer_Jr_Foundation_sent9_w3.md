@@ -1,0 +1,7 @@
+LeRoy W. Homer Jr. Foundation
+
+The hijackers were heard to say "Inform them, and tell him to talk to the pilot; bring back the pilot", possibly referring toLaurel Homer (CVR transcripts).
+
+However, the uprising of crew and passengers took place and during the attempt the plane crashed into a field in Stonycreek Township, Pennsylvania2002.
+
+The crash killed everyone on board.

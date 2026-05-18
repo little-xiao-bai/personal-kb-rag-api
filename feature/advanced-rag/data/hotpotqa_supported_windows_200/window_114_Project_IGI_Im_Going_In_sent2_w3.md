@@ -1,0 +1,5 @@
+Project I.G.I.: I'm Going In
+
+Upon release the game received mixed reviews due to a number of shortcomings, including poorly programmed A.I., lack of a mid-game save option, and the lack of multiplayer features.
+
+However it was praised for its superb sound design and graphics, thanks in part to its use of a proprietary game engine that was previously used in Innerloop's "Joint Strike Fighter".

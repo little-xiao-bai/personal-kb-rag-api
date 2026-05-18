@@ -1,0 +1,7 @@
+Connections (TV series)
+
+Connections is a 10-episode documentary television series and 1978 book ("Connections", based on the series) created, written, and presented by science historian James Burke.
+
+The series was produced and directed by Mick Jackson of the BBC Science and Features Department and first aired in 1978 (UK) and 1979 (USA).
+
+It took an interdisciplinary approach to the history of science and invention, and demonstrated how various discoveries, scientific achievements, and historical world events were built from one another successively in an interconnected way to bring about particular aspects of modern technology.

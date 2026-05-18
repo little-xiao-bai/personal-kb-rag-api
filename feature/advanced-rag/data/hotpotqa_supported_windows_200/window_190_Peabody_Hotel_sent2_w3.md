@@ -1,0 +1,5 @@
+Peabody Hotel
+
+The hotel is known for the "Peabody Ducks" that live on the hotel rooftop and make daily treks to the lobby.
+
+The Peabody Memphis is a member of Historic Hotel of America the official program of the National Trust for Historic Preservation.

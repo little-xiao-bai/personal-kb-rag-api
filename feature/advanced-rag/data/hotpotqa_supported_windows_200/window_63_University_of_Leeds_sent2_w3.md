@@ -1,0 +1,5 @@
+University of Leeds
+
+Originally named the Yorkshire College of Science and later simply the Yorkshire College, it incorporated the Leeds School of Medicine and became part of the federal Victoria University alongside Owens College (which became the University of Manchester) and University College Liverpool (which became the University of Liverpool).
+
+In 1904, a royal charter, created in 1903, was granted to the University of Leeds by King Edward VII.

@@ -1,0 +1,7 @@
+Craig Mack
+
+Although his first single was released under the name MC EZ in 1988, he is best known for his 1994 hit single "Flava In Ya Ear", which was released under his real name.
+
+The remix of the single was the breakout appearance of The Notorious B.I.G., as well as one of the first solo appearances by Busta Rhymes.
+
+The success of The Notorious B.I.G.'s debut album "Ready to Die" overshadowed Mack's early success on the Bad Boy label.

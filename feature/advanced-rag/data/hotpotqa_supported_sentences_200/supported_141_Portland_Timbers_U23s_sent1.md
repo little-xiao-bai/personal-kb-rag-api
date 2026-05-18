@@ -1,0 +1,3 @@
+Portland Timbers U23s
+
+Although founded in 2008 as part of the development system for the Portland Timbers USSF D2 organization, beginning in 2011 they are part of the development system for the Major League Soccer franchise of the same name.

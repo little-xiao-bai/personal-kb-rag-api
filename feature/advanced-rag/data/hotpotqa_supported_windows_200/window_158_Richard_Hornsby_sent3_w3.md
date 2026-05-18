@@ -1,0 +1,5 @@
+Richard Hornsby
+
+His firm also developed early diesels and caterpillar tracks.
+
+He lived with a farming family, the son of William Hornsby and his wife Sarah.

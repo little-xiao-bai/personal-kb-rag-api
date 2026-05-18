@@ -1,0 +1,7 @@
+No Prima Donna: The Songs of Van Morrison
+
+No Prima Donna: The Songs of Van Morrison released in October 1994 is the first tribute album for the songs of singer-songwriter Van Morrison.
+
+The album was produced by Van Morrison and his friend for many years, Phil Coulter.
+
+Morrison's longtime girlfriend, Michelle Rocca was the model on the cover of the album.

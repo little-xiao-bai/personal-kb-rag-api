@@ -1,0 +1,3 @@
+Anil Chatterjee
+
+Anil Chatterjee (Chattopadhyay) Bengali: অনিল চ্যাটার্জী (চট্টোপাধ্যায়) (25 October 1929 – 17 March 1996) was a Bengali actor in the Bengali cinema during the early fifties through the mid-nineties and is mostly remembered as a character actor.

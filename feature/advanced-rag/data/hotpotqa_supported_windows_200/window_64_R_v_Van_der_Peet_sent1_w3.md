@@ -1,0 +1,7 @@
+R v Van der Peet
+
+R v Van der Peet, [1996] 2 S.C.R. 507 is a leading case on Aboriginal rights under section 35 of the Constitution Act, 1982.
+
+The Supreme Court held that Aboriginal fishing rights did not extend to commercial selling of fish.
+
+From this case came the Van der Peet test for determining if an Aboriginal right exists.

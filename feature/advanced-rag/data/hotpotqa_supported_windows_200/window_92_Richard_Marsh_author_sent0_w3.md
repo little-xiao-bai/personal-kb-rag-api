@@ -1,0 +1,5 @@
+Richard Marsh (author)
+
+Richard Marsh (12 October 1857 – 9 August 1915) was the pseudonym of the English author born Richard Bernard Heldmann.
+
+A best-selling and prolific author of the late 19th century and the Edwardian period, Marsh is best known now for his supernatural thriller novel "The Beetle", which was published the same year as Bram Stoker's "Dracula" (1897), and was initially even more popular.

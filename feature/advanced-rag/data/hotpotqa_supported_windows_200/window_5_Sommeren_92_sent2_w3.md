@@ -1,0 +1,7 @@
+Sommeren '92
+
+The film is based on the 1992 UEFA European Football Championship, Denmark's greatest ever football triumph.
+
+The team had qualified only after Yugoslavia was disqualified as a result of the breakup and warfare in that country.
+
+The film examines the often difficult relationship between the team's coach Richard Møller Nielsen, and the Danish Football Association and leading players that nonetheless led to triumph in 1992.

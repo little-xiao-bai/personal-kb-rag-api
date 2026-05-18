@@ -1,0 +1,5 @@
+Religion in Ghana
+
+Christianity is the largest religion in Ghana, with approximately 71.2% of the country's population being members of various Christian denominations as of 2010 census.
+
+The religious composition of Ghana in the first postindependence population census of 1960 was 25 percent Muslim, 23 percent traditionalist, 41 percent Christian, and the rest (about 9 percent) other.

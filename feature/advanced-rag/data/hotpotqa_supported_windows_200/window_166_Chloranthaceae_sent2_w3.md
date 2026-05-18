@@ -1,0 +1,7 @@
+Chloranthaceae
+
+It is not closely related to any other family of flowering plants, and is among the early-diverging lineages in the angiosperms.
+
+They are woody or weakly woody plants occurring in Southeast Asia, the Pacific, Madagascar, Central and South America, and the West Indies.
+
+The family consists of four extant genera, totalling about 77 known species according to Christenhusz and Byng in 2016.

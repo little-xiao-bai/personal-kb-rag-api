@@ -1,0 +1,7 @@
+Desert kite
+
+The claim of older ages (8 to 9 thousand years) has been contradicted by more recent studies.
+
+Younger dates mean that the mass hunting did not occur in prehistory and was not done by hunter-gatherers, but during a later period, by agriculturalists who were already growing most of their food.
+
+Rock art in the vicinity of some of the kites indicates that the hunt could represent a large social effort, done together by people from several settlements, and showing religious connotations.

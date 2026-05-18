@@ -1,0 +1,7 @@
+Sixties Scoop
+
+The children were typically placed for adoption or fostering in Canada though a few were placed in the United States or western Europe.
+
+The term "Sixties scoop" was coined by Patrick Johnston in his 1983 report "Native Children and the Child Welfare System".
+
+It is a variation of the broader term Baby Scoop Era to refer to the period from the late 1950s to 1980s when large numbers of children were taken from their parents for adoption.

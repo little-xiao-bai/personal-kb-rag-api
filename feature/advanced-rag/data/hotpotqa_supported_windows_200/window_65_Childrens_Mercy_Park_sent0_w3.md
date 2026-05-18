@@ -1,0 +1,5 @@
+Children's Mercy Park
+
+Children's Mercy Park (formerly Sporting Park and Livestrong Sporting Park) is a soccer-specific stadium in Kansas City, Kansas, United States, and is the home of Sporting Kansas City.
+
+The stadium is located near Kansas Speedway and it opened during the 2011 season of Major League Soccer on June 9, 2011 with a match against the Chicago Fire.

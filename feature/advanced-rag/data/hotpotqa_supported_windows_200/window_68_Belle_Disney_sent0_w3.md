@@ -1,0 +1,5 @@
+Belle (Disney)
+
+Belle is a fictional character who appears in Walt Disney Pictures' 30th animated feature film "Beauty and the Beast" (1991).
+
+Originally voiced by American actress and singer Paige O'Hara, Belle is the non-conforming daughter of an inventor.

@@ -1,0 +1,7 @@
+Savage Weekend
+
+The film follows a woman who retreats to upstate New York with her wealthy boyfriend, her sister, and friend, only to be stalked by a killer in a disfigured mask.
+
+Filmed in 1976 as "The Killer Behind the Mask", the film was also titled "The Upstate Murders" before being released in 1979 by Cannon Films.
+
+It has been cited as an early prototype for the slasher film, predating "Halloween" and "Friday the 13th".

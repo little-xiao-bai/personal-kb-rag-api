@@ -1,0 +1,5 @@
+Forbury Gardens
+
+The site was formerly known as the Forbury, and one of the roads flanking the current gardens is still known as The Forbury.
+
+Fairs were held on the site three times a year until the 19th century.

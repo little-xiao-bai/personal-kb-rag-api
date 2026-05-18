@@ -1,0 +1,7 @@
+Scarface (soundtrack)
+
+Composed by Italian record producer Giorgio Moroder, the vinyl soundtrack was released on December 9 of the same year through MCA Records.
+
+The album features music created by Moroder, who wrote and produced all of the tracks.
+
+"Scarface" counts with the collaboration of multiple singers, including Paul Engemann in the track "Scarface (Push It to the Limit)", Debbie Harry in "Rush Rush", and Amy Holland in "She's on Fire" and "Turn Out the Night", among other artists.

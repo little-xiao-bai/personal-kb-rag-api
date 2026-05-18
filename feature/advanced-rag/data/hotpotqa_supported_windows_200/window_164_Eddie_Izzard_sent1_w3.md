@@ -1,0 +1,7 @@
+Eddie Izzard
+
+Edward John "Eddie" Izzard ( ; born 7 February 1962) is an English stand-up comedian, actor, writer and political activist.
+
+His comedic style takes the form of rambling, whimsical monologue, and self-referential pantomime.
+
+He had a starring role in the television series "The Riches" as Wayne Malloy and has appeared in films such as "Ocean's Twelve", "Ocean's Thirteen", "Mystery Men", "Shadow of the Vampire", "The Cat's Meow", "Across the Universe" and "Valkyrie".

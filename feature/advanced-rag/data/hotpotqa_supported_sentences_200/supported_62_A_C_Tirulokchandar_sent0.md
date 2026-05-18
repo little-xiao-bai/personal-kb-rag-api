@@ -1,0 +1,3 @@
+A. C. Tirulokchandar
+
+During the making of the film Manthiri Kumari in 1950, A.C.Trilogchander was working as a junior assistant on the sets and during the shooting of this film became a close friend of M.G.Ramachandran.

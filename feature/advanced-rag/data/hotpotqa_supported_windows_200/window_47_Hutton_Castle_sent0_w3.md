@@ -1,0 +1,5 @@
+Hutton Castle
+
+Hutton Castle is located in the Scottish Borders, overlooking the Whiteadder Water.
+
+It stands 2.5 km southeast of Chirnside and 11 km west of Berwick-on-Tweed.

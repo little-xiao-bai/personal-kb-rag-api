@@ -1,0 +1,3 @@
+Kasi (Pashtun tribe)
+
+Another large part of the Kasi confederacy is known as Shinwari, mainly settled in the eastern valleys of Nangarhar Province, Afghanistan and around Landi Kotal in the Federally Administered Tribal Areas, and Kohat District Khyber Pakhtunkhwa Pakistan.

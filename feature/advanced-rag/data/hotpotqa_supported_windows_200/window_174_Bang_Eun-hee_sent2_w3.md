@@ -1,0 +1,5 @@
+Bang Eun-hee
+
+Bang made her acting debut in 1988, and rose to fame after being cast as the lead actress in Im Kwon-taek's "General's Son" (1990).
+
+She has starred in films and television dramas such as "The Day a Pig Fell into the Well" (1996), "No. 3" (1997), "3PM Paradise Bath House" (1997), "Shadows of an Old Love" (1998), "Legend of Hyang Dan" (2007), "Daebak Life" (2008), and "All My Love" (2010).

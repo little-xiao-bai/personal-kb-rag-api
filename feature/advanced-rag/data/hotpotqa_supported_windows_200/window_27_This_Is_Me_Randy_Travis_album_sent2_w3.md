@@ -1,0 +1,7 @@
+This Is Me (Randy Travis album)
+
+Producer Kyle Lehning, Travis, and A&R Martha Sharp considered more than 1,000 songs before settling on the final ten.
+
+The tracks "Before You Kill Us All", "Whisper My Name", "This Is Me", and "The Box" were all released as singles, peaking at #2, #1, #5, and #8, respectively, on the "Billboard" country music charts.
+
+"Small Y'all" was later recorded by George Jones on his 1998 album "It Don't Get Any Better Than This".

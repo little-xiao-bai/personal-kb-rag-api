@@ -1,0 +1,5 @@
+Creedence Clearwater Revival: Box Set
+
+Creedence Clearwater Revival: Box Set is a box set by Creedence Clearwater Revival, released in 2001.
+
+It contains all of their complete studio albums, two complete live albums, and material recorded by the band under their previous names "The Golliwogs" and "The Blue Velvets".

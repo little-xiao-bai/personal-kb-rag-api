@@ -1,0 +1,5 @@
+Charlie Murder
+
+Charlie Murder is an action role-playing beat 'em up video game developed by Ska Studios and published by Microsoft Game Studios for the Xbox 360 and Ska Studios for PC.
+
+First revealed in January 2010 as an Xbox Live Indie Games title, the studio announced in May 2010 that the game would undergo a "complete overhaul" and be published in 2012 through Xbox Live Arcade for the Xbox 360.

@@ -1,0 +1,7 @@
+2012 Major League Baseball All-Star Game
+
+The 2012 Major League Baseball All-Star Game was the 83rd edition of the Major League Baseball All-Star Game.
+
+It was held on July 10, 2012, during the 2012 Major League Baseball season at Kauffman Stadium in Kansas City, Missouri, home of the Kansas City Royals.
+
+This marked the third time the Mid-summer Classic had been played in Kansas City, with Kauffman Stadium (then named Royals Stadium) last hosting the event in 1973, the stadium's first year of existence.

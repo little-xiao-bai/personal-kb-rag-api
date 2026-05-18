@@ -1,0 +1,5 @@
+Ringer Hut
+
+Ringer Hut (リンガーハット ) is a Japanese chain of fast-food restaurants, specializing in Nagasaki dishes Champon and Sara udon.
+
+The Hamakatsu Co. of Nagasaki, founders of the chain in 1974, borrowed the name of the former Ringer House which had been purchased by Nagasaki City and opened as a tourist attraction in 1966.

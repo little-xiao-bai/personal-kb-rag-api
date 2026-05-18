@@ -1,0 +1,3 @@
+Reynolds v. Sims
+
+Reynolds v. Sims, 377 U.S. 533 (1964) was a United States Supreme Court case that ruled that unlike in the election of the United States Senate, in the election of "any" chamber of a state legislature the electoral districts must be roughly equal in population (thus negating the traditional function of a State Senate, which was to allow rural counties to counter balance large towns and cities).

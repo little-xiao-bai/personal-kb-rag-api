@@ -1,0 +1,3 @@
+Fatal Games
+
+Fatal Games (originally known as The Killing Touch and also released as Olympic Nightmare) is a 1984 American slasher film written and directed by Michael Elliott and starring Sally Kirkland, Lynn Banashek, Sean Masterson, Michael O'Leary, Teal Roberts, and Spice Williams-Crosby.

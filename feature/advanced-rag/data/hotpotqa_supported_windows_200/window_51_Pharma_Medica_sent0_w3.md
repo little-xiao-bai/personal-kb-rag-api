@@ -1,0 +1,5 @@
+Pharma Medica
+
+Pharma Medica Research Inc. is an American research and development company that works with pharmaceutical companies and performs clinical trials in the pharmaceutical and biotechnology industry.
+
+The company is based in Toronto, Canada with headquarters in Mississauga, Ontario.

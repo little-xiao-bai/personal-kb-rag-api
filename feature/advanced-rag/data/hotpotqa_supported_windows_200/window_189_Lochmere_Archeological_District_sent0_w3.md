@@ -1,0 +1,5 @@
+Lochmere Archeological District
+
+The Lochmere Archeological District is a large archeological area on the banks of the Winnipesaukee River in Belknap County, New Hampshire, near the village of Lochmere.
+
+The area, part of which is now preserved by the state as the Brennick Lochmere Archaeological Site, is a multi-component site with evidence of human occupation from the Middle Archaic through the Late Woodland periods.

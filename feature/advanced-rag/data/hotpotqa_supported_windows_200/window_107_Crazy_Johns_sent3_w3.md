@@ -1,0 +1,5 @@
+Crazy John's
+
+Following his death in 2007, Ilhan's wife Patricia sold her stake in the company to Vodafone Australia, now a part of Vodafone Hutchison Australia.
+
+Originally a dealer of Telstra Mobile, Crazy John's became a Mobile Virtual Network Operator through the Vodafone Australia network, dealing directly with customers and offering its own competitive mobile phone deals and plans.

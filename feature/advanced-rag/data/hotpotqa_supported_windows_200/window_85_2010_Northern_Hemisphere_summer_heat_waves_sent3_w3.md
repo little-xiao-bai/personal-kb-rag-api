@@ -1,0 +1,7 @@
+2010 Northern Hemisphere summer heat waves
+
+The first phase lasted only from April 2010 to June 2010, and caused only moderate above average temperatures in the areas affected.
+
+But it also set new record high temperatures for most of the area affected, in the Northern Hemisphere.
+
+The second phase (the main, and most devastating phase) was caused by a very strong La Niña event, which lasted from June 2010 to June 2011.

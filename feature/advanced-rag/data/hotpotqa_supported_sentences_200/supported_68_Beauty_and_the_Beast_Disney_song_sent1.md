@@ -1,0 +1,3 @@
+Beauty and the Beast (Disney song)
+
+The film's theme song, the Broadway-inspired ballad was first recorded by British-American actress Angela Lansbury in her role as the voice of the character Mrs. Potts, and essentially describes the relationship between its two main characters Belle and the Beast, specifically how the couple has learned to accept their differences and in turn change each other for the better.
